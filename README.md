@@ -1,5 +1,5 @@
 # IOCs
-Repository of IOCs that can be pulled into tools.
+Repository of IOCs that can be pulled into tools. Starting this repo because a lot of sources don't have sanitized files that are straight hash values that can be ingested. Putting together files that are pure hash, IP, and URI values that can be added to reference sets and indicators.
 
 ## Sources
 <table>
