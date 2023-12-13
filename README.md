@@ -23,4 +23,9 @@ Repository of IOCs that can be pulled into tools. Starting this repo because a l
       <a href="https://github.com/avast/">Avast</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.cisa.gov/news-events/alerts/2023/08/29/cisa-releases-iocs-associated-malicious-barracuda-activity">CISA CVE-2023-2868</a>
+    </td>
+  </tr>
 </table>
