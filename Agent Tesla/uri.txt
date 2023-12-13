@@ -17,3 +17,5 @@ md-la-4.webhostbox.net
 https://api.telegram.org/bot2034238293:AAHoBUVeqtv7yJIYVLFYq5RA0AnxpaTX22s/sendDocument
 jyhsc.cc
 http://198.23.251.5/mum.exe
+ceabis.cf
+us2.smtp.mailhostbox.com
