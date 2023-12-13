@@ -13,3 +13,5 @@ http://23.95.85.181/0789/vbc.exe
 mail.raceinfo.co.za
 http://lg-tv.tk/bryantzx.exe
 six.qservers.net
+md-la-4.webhostbox.net
+https://api.telegram.org/bot2034238293:AAHoBUVeqtv7yJIYVLFYq5RA0AnxpaTX22s/sendDocument
