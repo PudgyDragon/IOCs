@@ -18,4 +18,9 @@ Repository of IOCs that can be pulled into tools. Starting this repo because a l
       <a href="https://github.com/RedDrip7/APT_Digital_Weapon/">RedDrip7</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/avast/">Avast</a>
+    </td>
+  </tr>
 </table>
