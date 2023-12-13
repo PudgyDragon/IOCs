@@ -19,3 +19,4 @@ jyhsc.cc
 http://198.23.251.5/mum.exe
 ceabis.cf
 us2.smtp.mailhostbox.com
+http://104.168.33.12/200/vbc.exe
