@@ -43,4 +43,9 @@ Repository of IOCs that can be pulled into tools. Starting this repo because a l
       <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-131a">CISA CVE-2023-27350</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a">CISA CVE-2023-34362</a>
+    </td>
+  </tr>
 </table>
