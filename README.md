@@ -30,22 +30,27 @@ Repository of IOCs that can be pulled into tools. Starting this repo because a l
   </tr>
   <tr>
     <td>
-      <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-201a">CISA CVE-2023-3519</a>
+      <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-201a">CVE-2023-3519</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-289a">CISA CVE-2023-22515</a>
+      <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-289a">CVE-2023-22515</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-131a">CISA CVE-2023-27350</a>
+      <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-131a">CVE-2023-27350</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a">CISA CVE-2023-34362</a>
+      <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a">CVE-2023-34362</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.uptycs.com/blog/cve-2023-38831-winrar-zero-day">CVE-2023-38831</a>
     </td>
   </tr>
 </table>
