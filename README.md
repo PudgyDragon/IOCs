@@ -53,4 +53,9 @@ Repository of IOCs that can be pulled into tools. Starting this repo because a l
       <a href="https://www.uptycs.com/blog/cve-2023-38831-winrar-zero-day">CVE-2023-38831</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://cert.gov.ua/article/6276652">CERT-UA#8218</a>
+    </td>
+  </tr>
 </table>
