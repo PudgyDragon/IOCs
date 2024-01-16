@@ -8,4 +8,12 @@
       <p>Volt Typhoon targets US critical infrastructure with living-off-the-land techniques</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-144a">CISA</a>
+    </td>
+    <td>
+      <p>People's Republic of China State-Sponsored Cyber Actor Living off the Land to Evade Detection</p>
+    </td>
+  </tr>
 </table>
