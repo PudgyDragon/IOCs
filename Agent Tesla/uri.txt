@@ -20,3 +20,5 @@ http://198.23.251.5/mum.exe
 ceabis.cf
 us2.smtp.mailhostbox.com
 http://104.168.33.12/200/vbc.exe
+mail.ardsmmm.com	
+https://drive.google.com/uc?export=download&id=1f3w3jH2GiafET_TeJiTSlnFx5LM3oT4t
