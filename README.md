@@ -5,6 +5,11 @@ Repository of IOCs that can be pulled into tools. Starting this repo because a l
 <table>
   <tr>
     <td>
+      <a href="https://bazaar.abuse.ch/">MalwareBazaar</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/eset/malware-ioc/">ESET</a>
     </td>
   </tr>
