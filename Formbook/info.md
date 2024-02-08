@@ -2,6 +2,17 @@
 <table>
   <tr>
     <td>
+      <a href="https://thehackernews.com/2023/02/formbook-malware-spreads-via.html">The Hacker News</a>
+    </td>
+    <td>
+      <p>FormBook Malware Spreads via Malvertising Using MalVirt Loader to Evade Detection</p>
+    </td>
+    <td>
+      <p>2023</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.checkpoint.com/cyber-hub/threat-prevention/what-is-malware/what-is-formbook-malware/">Check Point</a>
     </td>
     <td>
