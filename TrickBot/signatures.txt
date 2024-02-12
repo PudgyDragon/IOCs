@@ -1,0 +1,23 @@
+CISA Snort Signatures
+
+alert tcp any [443,447] -> any any (msg:"TRICKBOT:SSL/TLS Server X.509 Cert Field contains 'example.com' (Hex)"; sid:1; rev:1; flow:established,from_server; ssl_state:server_hello; content:"|0b|example.com"; fast_pattern:only; content:"Global Security"; content:"IT Department"; pcre:"/(?:\x09\x00\xc0\xb9\x3b\x93\x72\xa3\xf6\xd2|\x00\xe2\x08\xff\xfb\x7b\x53\x76\x3d)/"; classtype:bad-unknown; metadata:service ssl,service and-ports;)
+
+alert tcp any any -> any $HTTP_PORTS (msg:"TRICKBOT_ANCHOR:HTTP URI GET contains '/anchor'"; sid:1; rev:1; flow:established,to_server; content:"/anchor"; http_uri; fast_pattern:only; content:"GET"; nocase; http_method; pcre:"/^\/anchor_?.{3}\/[\w_-]+\.[A-F0-9]+\/?$/U"; classtype:bad-unknown; priority:1; metadata:service http;)
+
+alert tcp any $SSL_PORTS -> any any (msg:"TRICKBOT:SSL/TLS Server X.509 Cert Field contains 'C=XX, L=Default City, O=Default Company Ltd'"; sid:1; rev:1; flow:established,from_server; ssl_state:server_hello; content:"|31 0b 30 09 06 03 55 04 06 13 02|XX"; nocase; content:"|31 15 30 13 06 03 55 04 07 13 0c|Default City"; nocase; content:"|31 1c 30 1a 06 03 55 04 0a 13 13|Default Company Ltd"; nocase; content:!"|31 0c 30 0a 06 03 55 04 03|"; classtype:bad-unknown; reference:url,www.virustotal.com/gui/file/e9600404ecc42cf86d38deedef94068db39b7a0fd06b3b8fb2d8a3c7002b650e/detection; metadata:service ssl;)
+
+alert tcp any any -> any $HTTP_PORTS (msg:"TRICKBOT:HTTP Client Header contains 'boundary=Arasfjasu7'"; sid:1; rev:1; flow:established,to_server; content:"boundary=Arasfjasu7|0d 0a|"; http_header; content:"name=|22|proclist|22|"; http_header; content:!"Referer"; content:!"Accept"; content:"POST"; http_method; classtype:bad-unknown; metadata:service http;)
+
+alert tcp any any -> any $HTTP_PORTS (msg:"TRICKBOT:HTTP Client Header contains 'User-Agent|3a 20|WinHTTP loader/1.'"; sid:1; rev:1; flow:established,to_server; content:"User-Agent|3a 20|WinHTTP loader/1."; http_header; fast_pattern:only; content:".png|20|HTTP/1."; pcre:"/^Host\x3a\x20(?:\d{1,3}\.){3}\d{1,3}(?:\x3a\d{2,5})?$/mH"; content:!"Accept"; http_header; content:!"Referer|3a 20|"; http_header; classtype:bad-unknown; metadata:service http;)
+
+alert tcp any $HTTP_PORTS -> any any (msg:"TRICKBOT:HTTP Server Header contains 'Server|3a 20|Cowboy'"; sid:1; rev:1; flow:established,from_server; content:"200"; http_stat_code; content:"Server|3a 20|Cowboy|0d 0a|"; http_header; fast_pattern; content:"content-length|3a 20|3|0d 0a|"; http_header; file_data; content:"/1/"; depth:3; isdataat:!1,relative; classtype:bad-unknown; metadata:service http;)
+
+alert tcp any any -> any $HTTP_PORTS (msg:"TRICKBOT:HTTP URI POST contains C2 Exfil"; sid:1; rev:1; flow:established,to_server; content:"Content-Type|3a 20|multipart/form-data|3b 20|boundary=------Boundary"; http_header; fast_pattern; content:"User-Agent|3a 20|"; http_header; distance:0; content:"Content-Length|3a 20|"; http_header; distance:0; content:"POST"; http_method; pcre:"/^\/[a-z]{3}\d{3}\/.+?\.[A-F0-9]{32}\/\d{1,3}\//U"; pcre:"/^Host\x3a\x20(?:\d{1,3}\.){3}\d{1,3}$/mH"; content:!"Referer|3a|"; http_header; classtype:bad-unknown; metadata:service http;)
+
+alert tcp any any -> any $HTTP_PORTS (msg:"HTTP URI GET/POST contains '/56evcxv' (Trickbot)"; sid:1; rev:1; flow:established,to_server; content:"/56evcxv"; http_uri; fast_pattern:only; classtype:bad-unknown; metadata:service http;)
+
+alert icmp any any -> any any (msg:"TRICKBOT_ICMP_ANCHOR:ICMP traffic conatins 'hanc'"; sid:1; rev:1; itype:8; content:"hanc"; offset:4; fast_pattern; classtype:bad-unknown;)
+
+alert tcp any any -> any $HTTP_PORTS (msg:"HTTP Client Header contains POST with 'host|3a 20|*.onion.link' and 'data=' (Trickbot/Princess Ransomeware)"; sid:1; rev:1; flow:established,to_server; content:"POST"; nocase; http_method; content:"host|3a 20|"; http_header; content:".onion.link"; nocase; http_header; distance:0; within:47; fast_pattern; file_data; content:"data="; distance:0; within:5; classtype:bad-unknown; metadata:service http;)
+
+alert tcp any any -> any $HTTP_PORTS (msg:"HTTP Client Header contains 'host|3a 20|tpsci.com' (trickbot)"; sid:1; rev:1; flow:established,to_server; content:"host|3a 20|tpsci.com"; http_header; fast_pattern:only; classtype:bad-unknown; metadata:service http;)
