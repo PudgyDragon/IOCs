@@ -14,3 +14,6 @@ $json | foreach {
         Write-Output $sha384 | Add-Content -Path "C:\path\to\sha384.json"
     }
 }
+
+# Powershell script for getting Cobalt Strike IOCs from ThreatFox
+(Invoke-Webrequest -Method POST -Body '{ "query": "malwareinfo", "malware": "Cobalt Strike", "limit": 1000 }' -Uri https://threatfox-api.abuse.ch/api/v1/).Content | Out-File -FilePath "C:\path\to\file.json"
