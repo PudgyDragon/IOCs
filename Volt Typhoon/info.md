@@ -2,6 +2,17 @@
 <table>
   <tr>
     <td>
+      <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a">CISA</a>
+    </td>
+    <td>
+      <p>PRC State-Sponsored Actors Compromise and Maintain Persistent Access to U.S. Critical Infrastructure</p>
+    </td>
+    <td>
+      <p>Feb 7, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.cisa.gov/sites/default/files/2024-02/MAR-10448362.c1.v1.CLEAR_.pdf">CISA</a>
     </td>
     <td>
