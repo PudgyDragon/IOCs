@@ -2,6 +2,17 @@
 <table>
   <tr>
     <td>
+      <a href="https://media.defense.gov/2024/Feb/07/2003389936/-1/-1/0/JOINT-GUIDANCE-IDENTIFYING-AND-MITIGATING-LOTL.PDF">Defense.gov</a>
+    </td>
+    <td>
+      <p>Identifying and Mitigating Living Off the Land Techniques</p>
+    </td>
+    <td>
+      <p>Feb 7, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a">CISA</a>
     </td>
     <td>
