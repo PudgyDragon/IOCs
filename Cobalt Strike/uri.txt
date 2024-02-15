@@ -15,7 +15,6 @@ cache.thorjane.com/search
 cc.cert-ex.net/__utm.gif
 cdn.amazon-shopping.nl/c986e4a8-46ff-4083-b6e8-e744c780e36b/
 cdn.ctfmall.com/mall_100_100.html
-cdn.ctfmall.com/mall_100_100.html
 cdn.efstech.de/adstats/v2/q
 cdn.microsoft-hk.com/CloudGraph/Collection/v1
 cdn.mlcrosoft.fyi/enable/v9.35/OTEIZVY9GDN
@@ -34,7 +33,6 @@ cs1.francy.world/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 cs2.francy.world/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d11zd6hrtvyf1p.cloudfront.net/webhp/
 d1am0nd.ddns.net/push
-dashboard.help.drb_da.info/jquery-3.3.1.min.js
 dashboard.help.drb_da.info/jquery-3.3.1.min.js
 dc.sunsetwxllc.com/search
 dianqi1.dianqi2.jiayongdianqi.xyz/home/
@@ -79,7 +77,6 @@ leno.outlookonlines.com/web-sinf002209d30000022ii0921071812d
 log.ddm11125.com/Logs
 log.lihaimaoyi.com/api/3
 log.speech-microsoft.com/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
-login.help.drb_da.info/jquery-3.3.1.min.js
 login.help.drb_da.info/jquery-3.3.1.min.js
 logs.ddm11125.com/api/get_log.txt
 logs.speech-microsoft.com/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
@@ -164,7 +161,6 @@ oa.cncb.info/updates
 oary.10086.cn/static/js/21.4ba2507c.js
 one.gxzf.site/clemente/details
 osssss.huawei.com/mall_100_100.html
-osssss.huawei.com/mall_100_100.html
 pak.update.nadra-pk.org/ptj
 pic.micros0ft-security.org/en_US/all.js
 primo.freshhema.com/jquery-3.3.1.min.js
@@ -180,8 +176,6 @@ runanywhere.myvnc.com/j.ad
 schumacherbar.com/acquire/research/6XC6CUWV
 seeusdt.com/activity
 server1.bre1ce.top/fwlink
-service-00o1njdx-1317238936.sh.apigw.tencentcs.com/api/3
-service-00o1njdx-1317238936.sh.apigw.tencentcs.com/api/3
 service-00o1njdx-1317238936.sh.apigw.tencentcs.com/api/3
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com/admin/login
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com/jquery-3.3.1.min.js
@@ -200,7 +194,6 @@ spf1.superpeggy.com/search
 ssa.bphsearch.com/search
 summerevent2023.com/tip.php
 swf.help.drb_da.info/jquery-3.3.1.min.js
-swf.help.drb_da.info/jquery-3.3.1.min.js
 thuushohkeengeidohteemai.spenserfitolife.com/start/pic/5T0IGVJXMR3
 torusdt.vvvvvbeng.com/www/handle/doc
 twlifeuat.sumikuma.tw/jquery-3.3.1.min.js
@@ -214,11 +207,8 @@ v2ray2.mmsy.top/jquery-3.3.1.min.js
 veriernano.com/load
 verify.update.nadra-pk.org/cx
 vigorouseuclid.zscaler.skytapdns.com/visit.js
-vigorouseuclid.zscaler.skytapdns.com/visit.js
 wpengine.clsr.ca/__utm.gif
 wps.cncb.info/updates
-www.baidu.cn/api/3
-www.baidu.cn/api/3
 www.baidu.cn/api/3
 www.bing.com/maps/overlaybfpr
 www.goodljlagfhss.live/owa/
@@ -720,11 +710,9 @@ adibh.azureedge.net
 https://adibh.azureedge.net/w3c.js
 101.37.14.112:8899
 mail4.the-kup-key.com
-mail4.the-kup-key.com
 74.48.84.59:23
 123.207.50.70:8080
 ns.go2tr.ir
-mail4.the-kup-key.com
 mta4.aerostatus.net
 mta4.sharenscookbook.com
 mta4.theaerie.ca
@@ -815,10 +803,11 @@ http://91.92.242.62:8088/c/msdownload/update/others/2020/10/29136388_
 http://101.133.156.69:7001/j.ad
 157.245.222.152:443
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com
-https://service-jnajkkdg-1318687485.gz.apigw.tencentcs.com/Forge/static/HULNWCWI
+https://service-jnajkkdg-1318687485.gz.apigw.tencentcs.com/Forge/static/HULNWCW
 84.45.122.150:443
 comewithme.info
-https://comewithme.info/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+https://comewithme.info/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=b
+oks
 http://39.105.51.11:28101/ptj
 91.92.242.143:8082
 http://91.92.242.62:8082/c/msdownload/update/others/2020/10/29136388_
@@ -835,7 +824,6 @@ http://91.92.242.62:8082/c/msdownload/update/others/2020/10/29136388_
 123.57.174.3:80
 185.91.127.221:8089
 91.92.249.233:443
-74.48.84.59:23
 195.85.250.96:80
 154.9.252.97:2053
 34.143.208.146:9999
@@ -1095,7 +1083,6 @@ www.hainanwctvme.xyz
 unzip2.xyz
 update.windows-beta.info
 47.116.198.16:3333
-20.42.56.4:80
 134.122.52.228:443
 20.42.56.4:443
 124.71.5.199:6666
