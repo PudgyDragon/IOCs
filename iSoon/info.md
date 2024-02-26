@@ -22,4 +22,15 @@
       <p>Feb 22, 2024</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.darkreading.com/threat-intelligence/-isoon-contractor-helps-the-prc-hack-foreign-governments-companies">DarkReading</a>
+    </td>
+    <td>
+      <p>iSoon's Secret APT Status Exposes China's Foreign Hacking Machinations</p>
+    </td>
+    <td>
+      <p>Feb 22, 2024</p>
+    </td>
+  </tr>
 </table>
