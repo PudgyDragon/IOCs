@@ -11,4 +11,15 @@
       <p>Feb 2024</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://blog.bushidotoken.net/2024/02/lessons-from-isoon-leaks.html">BushidoToken</a>
+    </td>
+    <td>
+      <p>Lessons from the iSOON Leaks</p>
+    </td>
+    <td>
+      <p>Feb 22, 2024</p>
+    </td>
+  </tr>
 </table>
