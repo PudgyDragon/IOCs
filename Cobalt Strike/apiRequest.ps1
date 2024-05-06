@@ -17,3 +17,11 @@ $json | foreach {
 
 # Powershell script for getting Cobalt Strike IOCs from ThreatFox
 (Invoke-Webrequest -Method POST -Body '{ "query": "malwareinfo", "malware": "Cobalt Strike", "limit": 1000 }' -Uri https://threatfox-api.abuse.ch/api/v1/).Content | Out-File -FilePath "C:\path\to\file.json"
+
+$json = (Get-Content "C:\path\to\file.json" -Raw) | ConvertFrom-Json
+$json | foreach {
+    $_.data | foreach {
+        $ioc = $_.ioc 
+        Write-Output $ioc | Add-Content -Path "C:\path\to\ioc.json"
+    }
+}
