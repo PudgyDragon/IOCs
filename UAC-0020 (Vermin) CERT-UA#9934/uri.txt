@@ -1,0 +1,7 @@
+https://crash.syncthing.net/newcrash
+https://data.syncthing.net/newdata
+https://upgrades.syncthing.net/meta.json
+crash.syncthing.net
+data.syncthing.net
+upgrades.syncthing.net
+syncthing.net
