@@ -21,7 +21,7 @@ Based on MITRE
       <p>Defense</p>
     </td>
     <td>
-      <a href="#">Threat Groups</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/Defense">Threat Groups</a>
     </td>
     <td>
       <a href="#">Software</a>
