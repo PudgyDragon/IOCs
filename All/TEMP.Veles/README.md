@@ -24,6 +24,17 @@
       <p>April 17, 2024</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://cloud.google.com/blog/topics/threat-intelligence/attackers-deploy-new-ics-attack-framework-triton/">Mandiant</a>
+    </td>
+    <td>
+      <p>Attackers Deploy New ICS Attack Framework "TRITON" and Cause Operational Disruption to Critical Infrastructure</p>
+    </td>
+    <td>
+      <p>December 14, 2017</p>
+    </td>
+  </tr>
 </table>
 
 ## Indicators
