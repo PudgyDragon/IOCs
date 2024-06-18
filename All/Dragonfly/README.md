@@ -1,5 +1,18 @@
-# Information
+# Dragonfly
+
+## Information
 <table>
+  <tr>
+    <td>
+      <h3>Publisher</h3>
+    </td>
+    <td>
+      <h3>Title</h3>
+    </td>
+    <td>
+      <h3>Last Revised</h3>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="https://www.cisa.gov/news-events/alerts/2018/03/15/russian-government-cyber-activity-targeting-energy-and-other-critical">CISA</a>
@@ -12,3 +25,10 @@
     </td>
   </tr>
 </table>
+
+## Indicators
+
+
+## Discovery
+YARA Rules
+- https://github.com/PudgyDragon/IOCs/blob/main/All/Dragonfly/rules.yara
