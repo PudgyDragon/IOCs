@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Dragonfly</a>
+      <a href="">Dragonfly</a>
     </td>
     <td>
       <p>TEMP.Isotope, DYMALLOY, Berserk Bear, TG-4192, Crouching Yeti, IRON LIBERTY, Energetic Bear, Ghost Blizzard, BROMINE</p>
@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">OilRig</a>
+      <a href="">OilRig</a>
     </td>
     <td>
       <p>COBALT GYPSY, IRN2, APT34, Helix Kitten, Evasive Serpens, Hazel Sandstorm, EUROPIUM</p>
