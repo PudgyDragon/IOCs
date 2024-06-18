@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">AvosLocker</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/AvosLocker%20Ransomware">AvosLocker</a>
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">COATHANGER</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Coathanger%20RAT">COATHANGER</a>
     </td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Actoin RAT</a>
+      <a href="#">Action RAT</a>
     </td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Bandook</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/bandook">Bandook</a>
     </td>
   </tr>
   <tr>
