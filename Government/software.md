@@ -2,13 +2,24 @@
 <table>
   <tr>
     <td>
+      <h3>Software</h3>
+    </td>
+    <td>
+      <h3>Associated Software</h3>
+    </td>
+    <td>
+      <h3>Platforms</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="#">BLINDINGCAN</a>
     </td>
     <td>
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -19,7 +30,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -30,7 +41,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Network, Linux</p>
+      <p>Network, Linux</p>
     </td>
   </tr>
   <tr>
@@ -41,7 +52,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -52,7 +63,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Linux, Windows</p>
+      <p>Linux, Windows</p>
     </td>
   </tr>
   <tr>
@@ -63,7 +74,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -74,7 +85,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Linux, Network</p>
+      <p>Linux, Network</p>
     </td>
   </tr>
   <tr>
@@ -85,7 +96,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -96,7 +107,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -118,7 +129,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows, Android</p>
+      <p>Windows, Android</p>
     </td>
   </tr>
   <tr>
@@ -129,7 +140,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -140,7 +151,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -151,7 +162,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -162,7 +173,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -173,7 +184,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -184,7 +195,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -195,7 +206,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -206,7 +217,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -217,7 +228,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -228,7 +239,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -239,7 +250,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -250,7 +261,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -261,7 +272,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -272,7 +283,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -280,10 +291,10 @@
       <a href="#">HermeticWiper</a>
     </td>
     <td>
-      <p>Associated Software: Trojan.Killdisk, DriveSlayer</p>
+      <p>Trojan.Killdisk, DriveSlayer</p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -291,10 +302,10 @@
       <a href="#">Pysa</a>
     </td>
     <td>
-      <p>Associated Software: Mespinoza</p>
+      <p>Mespinoza</p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -302,10 +313,10 @@
       <a href="#">FinFisher</a>
     </td>
     <td>
-      <p>Associated Software: FinSpy</p>
+      <p>FinSpy</p>
     </td>
     <td>
-      <p>Platforms: Windows, Android</p>
+      <p>Windows, Android</p>
     </td>
   </tr>
   <tr>
@@ -316,7 +327,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -327,7 +338,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -338,7 +349,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -349,7 +360,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -360,7 +371,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -371,7 +382,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -382,7 +393,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -393,7 +404,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -404,7 +415,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -415,7 +426,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows, macOS</p>
+      <p>Windows, macOS</p>
     </td>
   </tr>
   <tr>
@@ -423,10 +434,10 @@
       <a href="#">SLOTHFULMEDIA</a>
     </td>
     <td>
-      <p>Associated Software: JackOfHearts, QueenOfClubs</p>
+      <p>JackOfHearts, QueenOfClubs</p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -437,7 +448,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -448,7 +459,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
 </table>
