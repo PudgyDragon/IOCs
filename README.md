@@ -43,10 +43,10 @@ Based on MITRE
       <p>Government</p>
     </td>
     <td>
-      <a href="#">Threat Groups</a>
+      <a href="https://github.com/PudgyDragon/IOCs/blob/main/Government/groups.md">Threat Groups</a>
     </td>
     <td>
-      <a href="#">Software</a>
+      <a href="https://github.com/PudgyDragon/IOCs/blob/main/Government/software.md">Software</a>
     </td>
   </tr>
 </table>
