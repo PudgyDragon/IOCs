@@ -28,9 +28,8 @@
 
 ## Indicators
 Hash Values
-- <a href="">MD5</a>
-- <a href="">SHA1</a>
-- <a href="">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/OilRig/samples.md5">MD5</a>
+
 
 ## Discovery
 Rules
