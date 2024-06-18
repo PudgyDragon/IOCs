@@ -33,4 +33,4 @@ Hash Values
 
 ## Discovery
 Rules
-- <a href="">YARA</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/OilRig/rules.yara">YARA</a>
