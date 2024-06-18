@@ -10,10 +10,10 @@ Based on MITRE
       <p>Critical Infrastructure</p>
     </td>
     <td>
-      <a href="#">Threat Groups</a>
+      <a href="https://github.com/PudgyDragon/IOCs/blob/main/Critical%20Infrastructure/groups.md">Threat Groups</a>
     </td>
     <td>
-      <a href="#">Software</a>
+      <a href="https://github.com/PudgyDragon/IOCs/blob/main/Critical%20Infrastructure/software.md">Software</a>
     </td>
   </tr>
   <tr>
