@@ -24,6 +24,17 @@
       <p></p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.trendmicro.com/en_us/research/23/i/apt34-deploys-phishing-attack-with-new-malware.html">Trend Micro</a>
+    </td>
+    <td>
+      <p>APT34 Deploys Phishing Attack With New Malware</p>
+    </td>
+    <td>
+      <p>Semptember 29, 2023</p>
+    </td>
+  </tr>
 </table>
 
 ## Indicators
