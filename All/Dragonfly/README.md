@@ -29,6 +29,8 @@
 ## Indicators
 Hash Values
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Dragonfly/samples.md5">MD5</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Dragonfly/samples.sha1">SHA1</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Dragonfly/samples.sha256">SHA256</a>
 
 ## Discovery
 Rules
