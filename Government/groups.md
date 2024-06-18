@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>
-      <a href="#">GALLIUM</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/GALLIUM">GALLIUM</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#">APT17</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/APT17">APT17</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#">Kimsuky</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Kimsuky">Kimsuky</a>
     </td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Gorgon Group</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Gorgon">Gorgon Group</a>
     </td>
   </tr>
   <tr>
@@ -62,17 +62,17 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Gamaredon Group</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Gamaredon%20Group">Gamaredon Group</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#">Gallmaker</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Gallmaker">Gallmaker</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#">Leafminer</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Leafminer">Leafminer</a>
     </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Machete</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/El%20Machete">Machete</a>
     </td>
   </tr>
   <tr>
@@ -102,7 +102,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Mustang Panda</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Mustang%20Panda">Mustang Panda</a>
     </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Higaisa</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Higaisa">Higaisa</a>
     </td>
   </tr>
   <tr>
@@ -147,12 +147,12 @@
   </tr>
   <tr>
     <td>
-      <a href="#">DarkHydrus</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/DarkHydrus">DarkHydrus</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#">Confucius</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Confucius">Confucius</a>
     </td>
   </tr>
   <tr>
@@ -162,12 +162,12 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Turla</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Turla">Turla</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#">BITTER</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/BITTER">BITTER</a>
     </td>
   </tr>
   <tr>
@@ -187,7 +187,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">APT29</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/APT29">APT29</a>
     </td>
   </tr>
   <tr>
@@ -232,7 +232,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Fox Kitten</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Fox%20Kitten">Fox Kitten</a>
     </td>
   </tr>
   <tr>
@@ -257,7 +257,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Earth Lusca</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Earth%20Lusca">Earth Lusca</a>
     </td>
   </tr>
   <tr>
@@ -267,7 +267,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">LAPSUS$</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/LAPSUS">LAPSUS$</a>
     </td>
   </tr>
   <tr>
@@ -277,7 +277,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Inception</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Inception%20Framework">Inception</a>
     </td>
   </tr>
   <tr>
