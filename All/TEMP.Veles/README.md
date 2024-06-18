@@ -28,8 +28,8 @@
 
 ## Indicators
 Hash Values
-- <a href="">MD5</a>
-- <a href="">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/TEMP.Veles/samples.md5">MD5</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/TEMP.Veles/samples.sha256">SHA256</a>
 
 ## Discovery
 Rules
