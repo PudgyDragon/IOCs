@@ -15,6 +15,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://attack.mitre.org/groups/G0103/">MITRE</a>
+    </td>
+    <td>
+      <p>Mofang</p>
+    </td>
+    <td>
+      <p>April 11, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://blog.fox-it.com/2016/06/15/mofang-a-politically-motivated-information-stealing-adversary/">FOX IT</a>
     </td>
     <td>
