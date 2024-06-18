@@ -1,5 +1,54 @@
 # IOCs
 Repository of IOCs that can be pulled into tools. Starting this repo because a lot of sources don't have sanitized files that are straight hash values that can be ingested. Putting together files that are pure hash, IP, and URI values that can be added to reference sets and indicators. IOCs I list here are only ones found through publicly available sources, or that have been labeled as TLP: White or TLP: Clear. Many of these IOCs can be found in MISP communities.
+- <a href="https://github.com/PudgyDragon/IOCs/tree/main/All">All IOCs</a>
+
+## Industry Specific
+<table>
+  <tr>
+    <td>
+      <p>Critical Infrastructure</p>
+    </td>
+    <td>
+      <a href="#">Threat Groups</a>
+    </td>
+    <td>
+      <a href="#">Software</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Defense</p>
+    </td>
+    <td>
+      <a href="#">Threat Groups</a>
+    </td>
+    <td>
+      <a href="#">Software</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Military</p>
+    </td>
+    <td>
+      <a href="#">Threat Groups</a>
+    </td>
+    <td>
+      <a href="#">Software</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Government</p>
+    </td>
+    <td>
+      <a href="#">Threat Groups</a>
+    </td>
+    <td>
+      <a href="#">Software</a>
+    </td>
+  </tr>
+</table>
 
 ## Sources
 <table>
