@@ -29,7 +29,8 @@
 ## Indicators
 Hash Values
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/OilRig/samples.md5">MD5</a>
-
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/OilRig/IPs.txt">IP</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/OilRig/uri.txt">URI</a>
 
 ## Discovery
 Rules
