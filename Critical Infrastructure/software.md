@@ -2,13 +2,24 @@
 <table>
   <tr>
     <td>
+      <h3>Software</h3>
+    </td>
+    <td>
+      <h3>Associated Software</h3>
+    </td>
+    <td>
+      <h3>Platforms</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/AvosLocker%20Ransomware">AvosLocker</a>
     </td>
     <td>
       <p></p>
     </td>
     <td>
-      <p>Platforms: Linux, Windows</p>
+      <p>Linux, Windows</p>
     </td>
   </tr>
   <tr>
@@ -19,7 +30,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -30,7 +41,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -41,7 +52,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -52,7 +63,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -60,10 +71,10 @@
       <a href="#">SocGholish</a>
     </td>
     <td>
-      <p>Associated Software: FakeUpdates</p>
+      <p>FakeUpdates</p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -74,7 +85,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -85,7 +96,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -96,7 +107,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -107,7 +118,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -118,7 +129,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows, Linux, macOS</p>
+      <p>Windows, Linux, macOS</p>
     </td>
   </tr>
 </table>
