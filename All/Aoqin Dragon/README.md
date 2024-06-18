@@ -28,9 +28,9 @@
 
 ## Indicators
 Hash Values
-- <a href="">SHA1</a>
-- <a href="">IP</a>
-- <a href="">URI</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Aoqin%20Dragon/samples.sha1">SHA1</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Aoqin%20Dragon/IPs.txt">IP</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Aoqin%20Dragon/uri.txt">URI</a>
 
 ## Discovery
 Rules
