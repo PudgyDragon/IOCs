@@ -2,10 +2,18 @@
 <table>
   <tr>
     <td>
+      <h3>Threat Group</h3>
+    </td>
+    <td>
+      <h3>Associated Groups</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Volt%20Typhoon">Volt Typhoon</a>
     </td>
     <td>
-      <p>Associated Groups: BRONZE SILHOUETTE</p>
+      <p>BRONZE SILHOUETTE</p>
     </td>
   </tr>
   <tr>
@@ -13,7 +21,7 @@
       <a href="#">Dragonfly</a>
     </td>
     <td>
-      <p>Associated Groups: TEMP.Isotope, DYMALLOY, Berserk Bear, TG-4192, Crouching Yeti, IRON LIBERTY, Energetic Bear, Ghost Blizzard, BROMINE</p>
+      <p>TEMP.Isotope, DYMALLOY, Berserk Bear, TG-4192, Crouching Yeti, IRON LIBERTY, Energetic Bear, Ghost Blizzard, BROMINE</p>
     </td>
   </tr>
   <tr>
@@ -21,7 +29,7 @@
       <a href="#">OilRig</a>
     </td>
     <td>
-      <p>Associated Groups: COBALT GYPSY, IRN2, APT34, Helix Kitten, Evasive Serpens, Hazel Sandstorm, EUROPIUM</p>
+      <p>COBALT GYPSY, IRN2, APT34, Helix Kitten, Evasive Serpens, Hazel Sandstorm, EUROPIUM</p>
     </td>
   </tr>
   <tr>
@@ -45,7 +53,7 @@
       <a href="#">TEMP.Veles</a>
     </td>
     <td>
-      <p>Associated Groups: XENOTIME</p>
+      <p>XENOTIME</p>
     </td>
   </tr>
   <tr>
@@ -53,7 +61,7 @@
       <a href="#">Windshift</a>
     </td>
     <td>
-      <p>Associated Groups: Bahamut</p>
+      <p>Bahamut</p>
     </td>
   </tr>
   <tr>
@@ -69,7 +77,7 @@
       <a href="#">GOLD SOUTHFIELD</a>
     </td>
     <td>
-      <p>Associated Groups: Pinchy Spider</p>
+      <p>Pinchy Spider</p>
     </td>
   </tr>
   <tr>
@@ -77,7 +85,7 @@
       <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Earth%20Lusca">Earth Lusca</a>
     </td>
     <td>
-      <p>Associated Groups: TAG-22, Charcoal Typhoon, CHROMIUM, ControlX</p>
+      <p>TAG-22, Charcoal Typhoon, CHROMIUM, ControlX</p>
     </td>
   </tr>
   <tr>
@@ -85,7 +93,7 @@
       <a href="#">Threat Group-1314</a>
     </td>
     <td>
-      <p>Associated Groups: TG-1314</p>
+      <p>TG-1314</p>
     </td>
   </tr>
 </table>
