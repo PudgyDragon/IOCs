@@ -30,5 +30,5 @@
 
 
 ## Discovery
-YARA Rules
-- https://github.com/PudgyDragon/IOCs/blob/main/All/Dragonfly/rules.yara
+Rules
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Dragonfly/rules.yara">YARA</a>
