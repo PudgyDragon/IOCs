@@ -2,57 +2,57 @@
 <table>
   <tr>
     <td>
-      <p>AvosLocker</p>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/AvosLocker%20Ransomware">AvosLocker</a>
     </td>
   </tr>
   <tr>
     <td>
-      <p>CARROTBAT</p>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/CARROTBAT">CARROTBAT</a>
     </td>
   </tr>
   <tr>
     <td>
-      <p>InvisiMole</p>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/InvisiMole">InvisiMole</a>
     </td>
   </tr>
   <tr>
     <td>
-      <p>ShimRat</p>
+      <a href="#">ShimRat</a>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Chrommme</p>
+      <a href="#">Chrommme</a>
     </td>
   </tr>
   <tr>
     <td>
-      <p>SocGholish</p>
+      <a href="#">SocGholish</a>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Cheerscrypt</p>
+      <a href="#">Cheerscrypt</a>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Royal</p>
+      <a href="#">Royal</a>
     </td>
   </tr>
   <tr>
     <td>
-      <p>ShimRatReporter</p>
+      <a href="#">ShimRatReporter</a>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Imminent Monitor</p>
+      <a href="#">Imminent Monitor</a>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Mythic</p>
+      <a href="#">Mythic</a>
     </td>
   </tr>
 </table>
