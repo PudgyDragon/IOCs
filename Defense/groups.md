@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <h3>Threat Group</h3>
+      <h3>Group</h3>
     </td>
     <td>
       <h3>Associated Groups</h3>
