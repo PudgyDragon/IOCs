@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Mofang</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Mofang">Mofang</a>
     </td>
     <td>
       <p></p>
