@@ -2,13 +2,24 @@
 <table>
   <tr>
     <td>
+      <h3>Software</h3>
+    </td>
+    <td>
+      <h3>Associated Software</h3>
+    </td>
+    <td>
+      <h3>Platforms</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="#">Ninja</a>
     </td>
     <td>
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -19,7 +30,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -30,7 +41,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Linux, Network</p>
+      <p>Linux, Network</p>
     </td>
   </tr>
   <tr>
@@ -41,7 +52,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -52,7 +63,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -63,7 +74,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
   <tr>
@@ -74,7 +85,7 @@
       <p></p>
     </td>
     <td>
-      <p>Platforms: Windows</p>
+      <p>Windows</p>
     </td>
   </tr>
 </table>
