@@ -3,7 +3,7 @@ Repository of IOCs that can be pulled into tools. Starting this repo because a l
 - <a href="https://github.com/PudgyDragon/IOCs/tree/main/All">All IOCs</a>
 
 ## Industry Specific
-Based on MITRE
+<p>Based on MITRE ATT&CK Navigator, which can be found at <a href="https://mitre-attack.github.io/attack-navigator/">MITRE</a></p>
 <table>
   <tr>
     <td>
