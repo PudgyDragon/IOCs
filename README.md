@@ -3,6 +3,7 @@ Repository of IOCs that can be pulled into tools. Starting this repo because a l
 - <a href="https://github.com/PudgyDragon/IOCs/tree/main/All">All IOCs</a>
 
 ## Industry Specific
+Based on MITRE
 <table>
   <tr>
     <td>
