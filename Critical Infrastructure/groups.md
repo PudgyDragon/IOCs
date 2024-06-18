@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">OilRig</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/OilRig">OilRig</a>
     </td>
     <td>
       <p>COBALT GYPSY, IRN2, APT34, Helix Kitten, Evasive Serpens, Hazel Sandstorm, EUROPIUM</p>
