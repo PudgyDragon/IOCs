@@ -27,7 +27,8 @@
 </table>
 
 ## Indicators
-
+Hash Values
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Dragonfly/samples.md5">MD5</a>
 
 ## Discovery
 Rules
