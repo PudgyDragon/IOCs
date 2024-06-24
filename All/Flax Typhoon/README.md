@@ -15,6 +15,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://www.recordedfuture.com/redjuliett-intensifies-taiwanese-cyber-espionage-via-network-perimeter">Recorded Future</a>
+    </td>
+    <td>
+      <p>Chinese State-Sponsored RedJuliett Intensifies Taiwanese Cyber Espionage via Network Perimeter Exploitation</p>
+    </td>
+    <td>
+      <p>Jun 24, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://thehackernews.com/2024/06/redjuliett-cyber-espionage-campaign.html">The Hacker News</a>
     </td>
     <td>
