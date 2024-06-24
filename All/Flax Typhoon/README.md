@@ -55,3 +55,4 @@ Hash Values
 
 ## Discovery
 Rules
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Flax%20Typhoon/M365Defender.kql">Microsoft 365 Defender Hunting Queries</a>
