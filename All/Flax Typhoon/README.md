@@ -32,7 +32,7 @@
       <p>Flax Typhoon using legitimate software to quietly access Taiwanese organizations</p>
     </td>
     <td>
-      <p>June 2024</p>
+      <p>Aug 24, 2023</p>
     </td>
   </tr>
 </table>
