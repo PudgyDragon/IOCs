@@ -24,6 +24,17 @@
       <p>March 16, 2018</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://symantec-enterprise-blogs.security.com/threat-intelligence/dragonfly-energy-sector-cyber-attacks">Symantec</a>
+    </td>
+    <td>
+      <p>Dragonfly: Western energy sector targeted by sophisticated attack group</p>
+    </td>
+    <td>
+      <p>March 16, 2018</p>
+    </td>
+  </tr>
 </table>
 
 ## Indicators
