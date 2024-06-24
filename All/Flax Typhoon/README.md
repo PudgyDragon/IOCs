@@ -52,6 +52,8 @@
 
 ## Indicators
 Hash Values
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Flax%20Typhoon/samples.sha1">SHA1</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Flax%20Typhoon/uri.txt">URI</a>
 
 ## Discovery
 Rules
