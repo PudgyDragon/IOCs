@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://www.recordedfuture.com/redjuliett-intensifies-taiwanese-cyber-espionage-via-network-perimeter">Recorded Future</a>
+      <a href="https://www.recordedfuture.com/redjuliett-intensifies-taiwanese-cyber-espionage-via-network-perimeter">Insikt Group</a>
     </td>
     <td>
       <p>Chinese State-Sponsored RedJuliett Intensifies Taiwanese Cyber Espionage via Network Perimeter Exploitation</p>
