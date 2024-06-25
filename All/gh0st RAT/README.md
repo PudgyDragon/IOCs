@@ -40,8 +40,10 @@
 
 ## Indicators
 Hash Values
-- <a href="">MD5</a>
-
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/gh0st%20RAT/samples.md5">MD5</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/gh0st%20RAT/samples.sha1">SHA1</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/gh0st%20RAT/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/gh0st%20RAT/uri.txt">URI</a>
 
 ## Discovery
 Rules
