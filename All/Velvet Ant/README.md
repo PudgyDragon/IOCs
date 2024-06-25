@@ -15,6 +15,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://my.f5.com/manage/s/article/K000140032">Sygnia</a>
+    </td>
+    <td>
+      <p>K000140032: China-Nexus Threat Group ‘Velvet Ant’ Abuses F5 Load Balancers for Persistence</p>
+    </td>
+    <td>
+      <p>June 18, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.sygnia.co/blog/china-nexus-threat-group-velvet-ant/#11">Sygnia</a>
     </td>
     <td>
