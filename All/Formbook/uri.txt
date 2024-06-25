@@ -89,3 +89,5 @@ http://192.210.150.58/709070/gui.exe
 http://80.76.49.148/LgGFdDAm/main.exe
 http://192.210.150.58/900/service.exe
 http://192.210.150.54/xampp/vbb/llb.doc
+http://109.248.151.238/ThxhxMZWkDGVO242.bin
+http://194.59.31.187/SnCdFiGMcCxEUjpZYrWfT20.bin
