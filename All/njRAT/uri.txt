@@ -317,3 +317,6 @@ stories-boulevard.gl.at.ply.gg
 than-electoral.gl.at.ply.gg
 training-invasion.gl.at.ply.gg
 zakifail.hopto.org
+yxdev.duckdns.org
+fht03169.duckdns.org
+black007med.zapto.org
