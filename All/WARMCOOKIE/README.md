@@ -29,9 +29,10 @@
 
 ## Indicators
 Hash Values
-- <a href="">URI</a>
-- <a href="">IP</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/WARMCOOKIE/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/WARMCOOKIE/uri.txt">URI</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/WARMCOOKIE/IPs.txt">IP</a>
 
 ## Discovery
 Rules
-- <a href="">YARA</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/WARMCOOKIE/rules.yara">YARA</a>
