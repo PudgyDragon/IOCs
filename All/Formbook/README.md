@@ -1,5 +1,18 @@
+# Formbook
+
 # Information
 <table>
+  <tr>
+    <td>
+      <h3>Publisher</h3>
+    </td>
+    <td>
+      <h3>Title</h3>
+    </td>
+    <td>
+      <h3>Last Revised</h3>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="https://thehackernews.com/2023/02/formbook-malware-spreads-via.html">The Hacker News</a>
@@ -34,3 +47,15 @@
     </td>
   </tr>
 </table>
+
+## Indicators
+Hash Values
+- <a href="">MD5</a>
+- <a href="">SHA1</a>
+- <a href="">SHA256</a>
+- <a href="">SHA512</a>
+- <a href="">URI</a>
+- <a href="">IP</a>
+
+## Discovery
+Rules
