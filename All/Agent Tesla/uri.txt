@@ -382,3 +382,5 @@ mail.albushrametalic.com
 smarthost1-out06.gohsphere.com
 smarthost1-out06.gohsphere.com
 http://23.95.235.16/5656/nom/noha.doc
+http://78.111.67.189/ecg/IMG_812_06108.exe
+http://filetransfer.io/data-package/hnVkhcTO/download
