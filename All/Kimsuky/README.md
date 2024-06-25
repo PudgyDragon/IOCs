@@ -25,6 +25,17 @@
       <p>June 19, 2024</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://symantec-enterprise-blogs.security.com/threat-intelligence/springtail-kimsuky-backdoor-espionage">Symantec</a>
+    </td>
+    <td>
+      <p>Springtail: New Linux Backdoor Added to Toolkit</p>
+    </td>
+    <td>
+      <p>May 16, 2024</p>
+    </td>
+  </tr>
 </table>
 
 ## Indicators
