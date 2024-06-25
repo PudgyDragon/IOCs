@@ -28,10 +28,10 @@
 
 ## Indicators
 Hash Values
-- <a href="">MD5</a>
-- <a href="">SHA1</a>
-- <a href="">SHA256</a>
-- <a href="">IP</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Velvet%20Ant/samples.md5">MD5</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Velvet%20Ant/samples.sha1">SHA1</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Velvet%20Ant/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Velvet%20Ant/IPs.txt">IP</a>
 
 ## Discovery
 Rules
