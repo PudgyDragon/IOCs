@@ -50,12 +50,11 @@
 
 ## Indicators
 Hash Values
-- <a href="">MD5</a>
-- <a href="">SHA1</a>
-- <a href="">SHA256</a>
-- <a href="">SHA512</a>
-- <a href="">URI</a>
-- <a href="">IP</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Formbook/samples.md5">MD5</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Formbook/samples.sha1">SHA1</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Formbook/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Formbook/samples.sha384">SHA384</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Formbook/uri.txt">URI</a>
 
 ## Discovery
 Rules
