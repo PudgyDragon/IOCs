@@ -1,6 +1,6 @@
 # Aoqin Dragon
 
-## Information
+## Articles
 <table>
   <tr>
     <td>
@@ -28,6 +28,7 @@
 
 ## Indicators
 Hash Values
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Aoqin%20Dragon/samples.sha256">SHA256</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Aoqin%20Dragon/samples.sha1">SHA1</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Aoqin%20Dragon/IPs.txt">IP</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Aoqin%20Dragon/uri.txt">URI</a>
