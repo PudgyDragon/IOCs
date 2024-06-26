@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Dragonfly</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Dragonfly">Dragonfly</a>
     </td>
     <td>
       <p>TEMP.Isotope, DYMALLOY, Berserk Bear, TG-4192, Crouching Yeti, IRON LIBERTY, Energetic Bear, Ghost Blizzard, BROMINE</p>
@@ -146,7 +146,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">APT18</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/APT18">APT18</a>
     </td>
     <td>
       <p>TG-0416, Dynamite Panda, Threat Group-0416</p>
@@ -186,7 +186,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">OilRig</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/OilRig">OilRig</a>
     </td>
     <td>
       <p>COBALT GYPSY, IRN2, APT34, Helix Kitten, Evasive Serpens, Hazel Sandstorm, EUROPIUM</p>
@@ -218,7 +218,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Aoqin Dragon</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Aoqin%20Dragon">Aoqin Dragon</a>
     </td>
     <td>
       <p></p>
@@ -282,7 +282,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Mofang</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Mofang">Mofang</a>
     </td>
     <td>
       <p></p>
@@ -354,7 +354,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Windshift</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/Windshift">Windshift</a>
     </td>
     <td>
       <p>Bahamut</p>
