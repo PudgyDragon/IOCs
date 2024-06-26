@@ -21,7 +21,7 @@
       <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/APT17">APT17</a>
     </td>
     <td>
-      <p>Deputy Dog</p>
+      <p>Deputy Dog, Tailgator Team</p>
     </td>
   </tr>
   <tr>
