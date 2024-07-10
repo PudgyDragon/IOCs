@@ -106,7 +106,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">Leviathan</a>
+      <a href="https://github.com/PudgyDragon/IOCs/tree/main/All/APT40">Leviathan</a>
     </td>
     <td>
       <p>MUDCARP, Kryptonite Panda, Gadolinium, BRONZE MOHAWK, TEMP.Jumper, APT40, TEMP.Periscope, Gingham Typhoon</p>
