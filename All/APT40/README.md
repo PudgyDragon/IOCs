@@ -78,6 +78,10 @@
 ## Indicators
 Hash Values
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT40/samples.md5">MD5</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT40/samples.sha1">SHA1</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT40/samples.sha256">SHA256</a>
+
+URI
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT40/uri.txt">URI</a>
 
 ## Discovery
