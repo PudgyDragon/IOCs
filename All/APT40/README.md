@@ -73,6 +73,17 @@
   </tr>
   <tr>
     <td>
+      <a href=https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-200a">CISA</a>
+    </td>
+    <td>
+      <p>Tactics, Techniques, and Procedures of Indicted APT40 Actors Associated with China’s MSS Hainan State Security Department</p>
+    </td>
+    <td>
+      <p>July 20, 2021</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://cloud.google.com/blog/topics/threat-intelligence/apt40-examining-a-china-nexus-espionage-actor/">Mandiant</a>
     </td>
     <td>
