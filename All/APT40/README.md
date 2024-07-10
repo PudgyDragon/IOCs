@@ -62,6 +62,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://attack.mitre.org/groups/G0065/">MITRE</a>
+    </td>
+    <td>
+      <p>Leviathan</p>
+    </td>
+    <td>
+      <p>January 8, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://cloud.google.com/blog/topics/threat-intelligence/apt40-examining-a-china-nexus-espionage-actor/">Mandiant</a>
     </td>
     <td>
