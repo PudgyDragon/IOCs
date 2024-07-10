@@ -4,3 +4,6 @@ http://45.207.168.120:7744/k7.exe
 http://45.207.168.120:7744/22222.zip
 http://221.158.86.16:7762/svchost.exe
 http://45.207.168.120:7744/conhostdhfw.exe
+http://149.88.87.137/3.exe
+http://ssl.ftp21.cc/TQ.jpg
+http://down.ftp21.cc/TQ.jpg
