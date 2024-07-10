@@ -1,7 +1,9 @@
 
 # gh0st RAT
 
-## Information
+## About
+
+## Articles
 <table>
   <tr>
     <td>
@@ -43,6 +45,8 @@ Hash Values
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/gh0st%20RAT/samples.md5">MD5</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/gh0st%20RAT/samples.sha1">SHA1</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/gh0st%20RAT/samples.sha256">SHA256</a>
+
+URI
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/gh0st%20RAT/uri.txt">URI</a>
 
 ## Discovery
