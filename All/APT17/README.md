@@ -70,3 +70,6 @@ Hash Values
 
 ## Discovery
 Rules
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT17/snort.rules">Snort</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT17/rules.yara">YARA</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT17/sigma.yml">SIGMA</a>
