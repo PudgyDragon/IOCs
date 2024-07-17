@@ -66,3 +66,5 @@ mail.oserfech.eu
 admin@oserfech.eu
 nonso@oserfech.eu
 zativax1@libreriagandhi.cl
+it@mosir.ehost.pl
+data@mosir.ehost.pl
