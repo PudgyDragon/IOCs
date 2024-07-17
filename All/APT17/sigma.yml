@@ -1,0 +1,435 @@
+title: CMD Shell Output Redirect
+id: 4f4eaa9f-5ad4-410c-a4be-bc6132b0175a
+related:
+    - id: 8e0bb260-d4b2-4fff-bb8d-3f82118e6892
+      type: similar
+status: test
+description: Detects the use of the redirection character ">" to redicrect information in commandline
+references:
+    - https://ss64.com/nt/syntax-redirection.html
+author: frack113
+date: 2022/01/22
+modified: 2023/03/07
+tags:
+    - attack.discovery
+    - attack.t1082
+logsource:
+    category: process_creation
+    product: windows
+detection:
+    selection_cmd:
+        - OriginalFileName: 'Cmd.Exe'
+        - Image|endswith: '\cmd.exe'
+    selection_cli:
+        CommandLine|contains: '>'
+    filter_idm_extension:
+        CommandLine|contains:
+            - 'C:\Program Files (x86)\Internet Download Manager\IDMMsgHost.exe'
+            - 'chrome-extension://'
+            - '\\.\pipe\chrome.nativeMessaging'
+    condition: all of selection_* and not 1 of filter_*
+falsepositives:
+    - Internet Download Manager extensions use named pipes and redirection via CLI. Filter it out if you use it in your environment
+level: low
+
+title: ServiceDll Hijack
+id: 612e47e9-8a59-43a6-b404-f48683f45bd6
+status: experimental
+description: |
+    Detects changes to the "ServiceDLL" value related to a service in the registry.
+    This is often used as a method of persistence.
+references:
+    - https://github.com/redcanaryco/atomic-red-team/blob/f339e7da7d05f6057fdfcdd3742bfcf365fee2a9/atomics/T1543.003/T1543.003.md#atomic-test-4---tinyturla-backdoor-service-w64time
+    - https://www.hexacorn.com/blog/2013/09/19/beyond-good-ol-run-key-part-4/
+author: frack113
+date: 2022/02/04
+modified: 2024/04/03
+tags:
+    - attack.persistence
+    - attack.privilege_escalation
+    - attack.t1543.003
+logsource:
+    category: registry_set
+    product: windows
+detection:
+    selection:
+        TargetObject|contains|all:
+            - '\System\'
+            - 'ControlSet'
+            - '\Services\'
+        TargetObject|endswith: '\Parameters\ServiceDll'
+    filter_main_printextensionmanger:
+        Details: 'C:\Windows\system32\spool\drivers\x64\3\PrintConfig.dll'
+    filter_main_domain_controller:
+        Image: 'C:\Windows\system32\lsass.exe'
+        TargetObject|endswith: '\Services\NTDS\Parameters\ServiceDll'
+        Details: '%%systemroot%%\system32\ntdsa.dll'
+    filter_main_poqexec:
+        Image: 'C:\Windows\System32\poqexec.exe'
+    filter_optional_safetica:
+        Image|endswith: '\regsvr32.exe'
+        Details: 'C:\Windows\System32\STAgent.dll'
+    condition: selection and not 1 of filter_main_* and not 1 of filter_optional_*
+falsepositives:
+    - Administrative scripts
+    - Installation of a service
+level: medium
+
+title: Regsvr32 DLL Execution With Uncommon Extension
+id: 50919691-7302-437f-8e10-1fe088afa145
+status: test
+description: Detects a "regsvr32" execution where the DLL doesn't contain a common file extension.
+references:
+    - https://app.any.run/tasks/34221348-072d-4b70-93f3-aa71f6ebecad/
+author: Florian Roth (Nextron Systems)
+date: 2019/07/17
+modified: 2023/05/24
+tags:
+    - attack.defense_evasion
+    - attack.t1574
+    - attack.execution
+logsource:
+    category: process_creation
+    product: windows
+detection:
+    selection:
+        - Image|endswith: '\regsvr32.exe'
+        - OriginalFileName: 'REGSVR32.EXE'
+    filter_main_legit_ext:
+        CommandLine|contains:
+            # Note: For better accuracy you might not want to use contains
+            - '.ax'
+            - '.cpl'
+            - '.dll' # Covers ".dll.mui"
+            - '.ocx'
+    filter_optional_pascal:
+        CommandLine|contains: '.ppl'
+    filter_optional_avg:
+        CommandLine|contains: '.bav'
+    filter_main_null_4688:
+        CommandLine: null
+    filter_main_empty_4688:
+        CommandLine: ''
+    condition: selection and not 1 of filter_main_* and not 1 of filter_optional_*
+falsepositives:
+    - Other legitimate extensions currently not in the list either from third party or specific Windows components.
+level: medium
+
+title: Potential WWlib.DLL Sideloading
+id: e2e01011-5910-4267-9c3b-4149ed5479cf
+status: test
+description: Detects potential DLL sideloading of "wwlib.dll"
+references:
+    - https://twitter.com/WhichbufferArda/status/1658829954182774784
+    - https://news.sophos.com/en-us/2022/11/03/family-tree-dll-sideloading-cases-may-be-related/
+    - https://securelist.com/apt-luminousmoth/103332/
+author: X__Junior (Nextron Systems)
+date: 2023/05/18
+tags:
+    - attack.defense_evasion
+    - attack.privilege_escalation
+    - attack.t1574.001
+    - attack.t1574.002
+logsource:
+    category: image_load
+    product: windows
+detection:
+    selection:
+        ImageLoaded|endswith: '\wwlib.dll'
+    filter_main_path:
+        Image|startswith:
+            - 'C:\Program Files (x86)\Microsoft Office\'
+            - 'C:\Program Files\Microsoft Office\'
+        Image|endswith: '\winword.exe'
+        ImageLoaded|startswith:
+            - 'C:\Program Files (x86)\Microsoft Office\'
+            - 'C:\Program Files\Microsoft Office\'
+    condition: selection and not 1 of filter_main_*
+falsepositives:
+    - Unknown
+level: medium
+
+title: Potential DLL Sideloading Of DBGHELP.DLL
+id: 6414b5cd-b19d-447e-bb5e-9f03940b5784
+status: test
+description: Detects potential DLL sideloading of "dbghelp.dll"
+references:
+    - https://hijacklibs.net/ # For list of DLLs that could be sideloaded (search for dlls mentioned here in there)
+author: Nasreddine Bencherchali (Nextron Systems), Wietze Beukema (project and research)
+date: 2022/10/25
+modified: 2023/05/05
+tags:
+    - attack.defense_evasion
+    - attack.persistence
+    - attack.privilege_escalation
+    - attack.t1574.001
+    - attack.t1574.002
+logsource:
+    category: image_load
+    product: windows
+detection:
+    selection:
+        ImageLoaded|endswith: '\dbghelp.dll'
+    filter_main_generic:
+        ImageLoaded|startswith:
+            - 'C:\Program Files (x86)\'
+            - 'C:\Program Files\'
+            - 'C:\Windows\SoftwareDistribution\'
+            - 'C:\Windows\System32\'
+            - 'C:\Windows\SystemTemp\'
+            - 'C:\Windows\SysWOW64\'
+            - 'C:\Windows\WinSxS\'
+    filter_optional_anaconda:
+        ImageLoaded|endswith:
+            - '\Anaconda3\Lib\site-packages\vtrace\platforms\windll\amd64\dbghelp.dll'
+            - '\Anaconda3\Lib\site-packages\vtrace\platforms\windll\i386\dbghelp.dll'
+    filter_optional_epicgames:
+        ImageLoaded|endswith:
+            - '\Epic Games\Launcher\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll'
+            - '\Epic Games\MagicLegends\x86\dbghelp.dll'
+    condition: selection and not 1 of filter_main_* and not 1 of filter_optional_*
+falsepositives:
+    - Legitimate applications loading their own versions of the DLL mentioned in this rule
+level: medium
+
+title: Uncommon Svchost Parent Process
+id: 01d2e2a1-5f09-44f7-9fc1-24faa7479b6d
+status: test
+description: Detects an uncommon svchost parent process
+references:
+    - Internal Research
+author: Florian Roth (Nextron Systems)
+date: 2017/08/15
+modified: 2022/06/28
+tags:
+    - attack.defense_evasion
+    - attack.t1036.005
+logsource:
+    category: process_creation
+    product: windows
+detection:
+    selection:
+        Image|endswith: '\svchost.exe'
+    filter_main_generic:
+        ParentImage|endswith:
+            - '\Mrt.exe'
+            - '\MsMpEng.exe'
+            - '\ngen.exe'
+            - '\rpcnet.exe'
+            - '\services.exe'
+            - '\TiWorker.exe'
+    filter_main_parent_null:
+        ParentImage: null
+    filter_main_parent_empty:
+        ParentImage:
+            - '-'
+            - ''
+    condition: selection and not 1 of filter_main_*
+falsepositives:
+    - Unknown
+level: medium
+
+title: Stop Windows Service Via Net.EXE
+id: 88872991-7445-4a22-90b2-a3adadb0e827
+related:
+    - id: eb87818d-db5d-49cc-a987-d5da331fbd90
+      type: obsoletes
+status: test
+description: Detects the stopping of a Windows service via the "net" utility.
+references:
+    - https://ss64.com/nt/net-service.html
+author: Jakob Weinzettl, oscd.community, Nasreddine Bencherchali (Nextron Systems)
+date: 2023/03/05
+tags:
+    - attack.impact
+    - attack.t1489
+logsource:
+    category: process_creation
+    product: windows
+detection:
+    selection_img:
+        - OriginalFileName:
+              - 'net.exe'
+              - 'net1.exe'
+        - Image|endswith:
+              - '\net.exe'
+              - '\net1.exe'
+    selection_cli:
+        CommandLine|contains: ' stop '
+    condition: all of selection_*
+falsepositives:
+    - There are many legitimate reasons to stop a service. This rule isn't looking for any suspicious behaviour in particular. Filter legitimate activity accordingly
+level: low
+
+title: ServiceDll Hijack
+id: 612e47e9-8a59-43a6-b404-f48683f45bd6
+status: experimental
+description: |
+    Detects changes to the "ServiceDLL" value related to a service in the registry.
+    This is often used as a method of persistence.
+references:
+    - https://github.com/redcanaryco/atomic-red-team/blob/f339e7da7d05f6057fdfcdd3742bfcf365fee2a9/atomics/T1543.003/T1543.003.md#atomic-test-4---tinyturla-backdoor-service-w64time
+    - https://www.hexacorn.com/blog/2013/09/19/beyond-good-ol-run-key-part-4/
+author: frack113
+date: 2022/02/04
+modified: 2024/04/03
+tags:
+    - attack.persistence
+    - attack.privilege_escalation
+    - attack.t1543.003
+logsource:
+    category: registry_set
+    product: windows
+detection:
+    selection:
+        TargetObject|contains|all:
+            - '\System\'
+            - 'ControlSet'
+            - '\Services\'
+        TargetObject|endswith: '\Parameters\ServiceDll'
+    filter_main_printextensionmanger:
+        Details: 'C:\Windows\system32\spool\drivers\x64\3\PrintConfig.dll'
+    filter_main_domain_controller:
+        Image: 'C:\Windows\system32\lsass.exe'
+        TargetObject|endswith: '\Services\NTDS\Parameters\ServiceDll'
+        Details: '%%systemroot%%\system32\ntdsa.dll'
+    filter_main_poqexec:
+        Image: 'C:\Windows\System32\poqexec.exe'
+    filter_optional_safetica:
+        Image|endswith: '\regsvr32.exe'
+        Details: 'C:\Windows\System32\STAgent.dll'
+    condition: selection and not 1 of filter_main_* and not 1 of filter_optional_*
+falsepositives:
+    - Administrative scripts
+    - Installation of a service
+level: medium
+
+title: Bypass UAC Using Event Viewer
+id: 674202d0-b22a-4af4-ae5f-2eda1f3da1af
+status: test
+description: Bypasses User Account Control using Event Viewer and a relevant Windows Registry modification
+references:
+    - https://enigma0x3.net/2016/08/15/fileless-uac-bypass-using-eventvwr-exe-and-registry-hijacking/
+    - https://github.com/redcanaryco/atomic-red-team/blob/f339e7da7d05f6057fdfcdd3742bfcf365fee2a9/atomics/T1548.002/T1548.002.md#atomic-test-1---bypass-uac-using-event-viewer-cmd
+author: frack113
+date: 2022/01/05
+modified: 2023/08/17
+tags:
+    - attack.persistence
+    - attack.t1547.010
+logsource:
+    category: registry_set
+    product: windows
+detection:
+    selection:
+        TargetObject|endswith: '_Classes\mscfile\shell\open\command\(Default)'
+    filter:
+        Details|startswith: '%SystemRoot%\system32\mmc.exe "%1" %'
+    condition: selection and not filter
+falsepositives:
+    - Unknown
+level: high
+
+title: Uncommon Svchost Parent Process
+id: 01d2e2a1-5f09-44f7-9fc1-24faa7479b6d
+status: test
+description: Detects an uncommon svchost parent process
+references:
+    - Internal Research
+author: Florian Roth (Nextron Systems)
+date: 2017/08/15
+modified: 2022/06/28
+tags:
+    - attack.defense_evasion
+    - attack.t1036.005
+logsource:
+    category: process_creation
+    product: windows
+detection:
+    selection:
+        Image|endswith: '\svchost.exe'
+    filter_main_generic:
+        ParentImage|endswith:
+            - '\Mrt.exe'
+            - '\MsMpEng.exe'
+            - '\ngen.exe'
+            - '\rpcnet.exe'
+            - '\services.exe'
+            - '\TiWorker.exe'
+    filter_main_parent_null:
+        ParentImage: null
+    filter_main_parent_empty:
+        ParentImage:
+            - '-'
+            - ''
+    condition: selection and not 1 of filter_main_*
+falsepositives:
+    - Unknown
+level: medium
+
+title: User with Privileges Logon
+id: 94309181-d345-4cbf-b5fe-061769bdf9cb
+status: test
+description: Detects logon with "Special groups" and "Special Privileges" can be thought of as Administrator groups or privileges.
+references:
+    - https://github.com/Yamato-Security/EnableWindowsLogSettings/blob/7f6d755d45ac7cc9fc35b0cbf498e6aa4ef19def/ConfiguringSecurityLogAuditPolicies.md
+    - https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4672
+    - https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4964
+author: frack113
+date: 2022/10/14
+modified: 2022/10/22
+tags:
+    - attack.defense_evasion
+    - attack.lateral_movement
+    - attack.credential_access
+    - attack.t1558
+    - attack.t1649
+    - attack.t1550
+logsource:
+    service: security
+    product: windows
+detection:
+    selection:
+        EventID:
+            - 4672
+            - 4964
+    filter:
+        SubjectUserSid: S-1-5-18
+    # Level can be upgrade to medium with a filter
+    # filter_valid_account:
+    #     SubjectUserName: set valid internal naming pattern or a list a valid account
+    condition: selection and not filter
+falsepositives:
+    - Unknown
+level: low
+
+title: System Network Connections Discovery - Linux
+id: 4c519226-f0cd-4471-bd2f-6fbb2bb68a79
+status: test
+description: Detects usage of system utilities to discover system network connections
+references:
+    - https://github.com/redcanaryco/atomic-red-team/blob/f339e7da7d05f6057fdfcdd3742bfcf365fee2a9/atomics/T1049/T1049.md
+author: Daniil Yugoslavskiy, oscd.community
+date: 2020/10/19
+modified: 2023/01/17
+tags:
+    - attack.discovery
+    - attack.t1049
+logsource:
+    category: process_creation
+    product: linux
+detection:
+    selection:
+        Image|endswith:
+            - '/who'
+            - '/w'
+            - '/last'
+            - '/lsof'
+            - '/netstat'
+    filter_landscape_sysinfo:
+        ParentCommandLine|contains: '/usr/bin/landscape-sysinfo'
+        Image|endswith: '/who'
+    condition: selection and not 1 of filter_*
+falsepositives:
+    - Legitimate activities
+level: low
