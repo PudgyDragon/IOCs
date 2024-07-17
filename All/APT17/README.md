@@ -69,7 +69,20 @@ Hash Values
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT17/samples.md5">MD5</a>
 
 ## Discovery
-Rules
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT17/snort.rules">Snort</a>
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT17/rules.yara">YARA</a>
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT17/sigma.yml">SIGMA</a>
+<table>
+  <tr>
+    <td width="33.3%">
+      <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT17/snort.rules"><img src="https://upload.wikimedia.org/wikipedia/en/3/3a/Snort_ids_logo.png" width="100%"></a>
+    </td>
+    <td width="33.3%">
+      <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT17/rules.yara"><img src="https://countuponsecurity.com/wp-content/uploads/2016/03/yara-logo.jpg"></a>
+    </td>
+    <td width="33.3%">
+      <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT17/sigma.yml"><img src="https://kravensecurity.com/wp-content/uploads/2023/11/sigma-logo-1.png"></a>
+    </td>
+  </tr>
+</table>
+
+
+
+
