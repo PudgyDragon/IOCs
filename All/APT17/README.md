@@ -65,8 +65,26 @@
 
 
 ## Indicators
-Hash Values
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT17/samples.md5">MD5</a>
+<table>
+  <tr>
+    <td width="33.3%">
+      <h3>Hash Values</h3>
+    </td>
+    <td width="33.3%">
+      <h3>IP Addresses</h3>
+    </td>
+    <td width="33.3%">
+      <h3>URI/Domains</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%">
+      <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT17/samples.md5">MD5</a>
+    </td>
+    <td width="33.3%"></td>
+    <td width="33.3%"></td>
+  </tr>
+</table>
 
 ## Discovery
 <table>
