@@ -1,1 +1,6 @@
 http://109.173.236.128/h
+http://47.116.192.150:9000/r
+http://89.197.154.116/Updaters.exe
+http://51.77.194.181:8080/para.exe
+http://89.197.154.116/TcpExternal.exe
+http://89.197.154.116/PerformanceTest.exe
