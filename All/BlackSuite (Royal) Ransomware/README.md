@@ -101,7 +101,7 @@
       <!--<a href=""><img src="https://upload.wikimedia.org/wikipedia/en/3/3a/Snort_ids_logo.png" width="100%"></a>-->
     </td>
     <td width="33.3%">
-      <a href=""><img src="https://countuponsecurity.com/wp-content/uploads/2016/03/yara-logo.jpg"></a>
+      <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/BlackSuite%20(Royal)%20Ransomware/rules.yara"><img src="https://countuponsecurity.com/wp-content/uploads/2016/03/yara-logo.jpg"></a>
     </td>
     <td width="33.3%">
       <!--<a href=""><img src="https://kravensecurity.com/wp-content/uploads/2023/11/sigma-logo-1.png"></a>-->
