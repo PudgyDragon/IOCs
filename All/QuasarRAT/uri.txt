@@ -7,3 +7,5 @@ http://77.232.41.110/large/svchost.exe
 http://185.196.9.251/autotask/Q-backup.exe
 http://185.196.9.251/autotask/Eppzjtedzmk.exe
 http://45.61.137.6/tmp/mscorsvc.dll
+http://193.42.11.9/server.exe
+http://193.42.11.9/main.exe
