@@ -88,18 +88,17 @@
 </table>
 
 ## Discovery
-<!--
+
 <table>
   <tr>
     <td width="33.3%">
-      <a href=""><img src="https://upload.wikimedia.org/wikipedia/en/3/3a/Snort_ids_logo.png" width="100%"></a>
+      <!--<a href=""><img src="https://upload.wikimedia.org/wikipedia/en/3/3a/Snort_ids_logo.png" width="100%"></a>-->
     </td>
     <td width="33.3%">
       <a href=""><img src="https://countuponsecurity.com/wp-content/uploads/2016/03/yara-logo.jpg"></a>
     </td>
     <td width="33.3%">
-      <a href=""><img src="https://kravensecurity.com/wp-content/uploads/2023/11/sigma-logo-1.png"></a>
+      <!--<a href=""><img src="https://kravensecurity.com/wp-content/uploads/2023/11/sigma-logo-1.png"></a>-->
     </td>
   </tr>
 </table>
--->
