@@ -80,10 +80,16 @@
   </tr>
   <tr>
     <td width="33.3%">
-      <a href=""></a>
+      <li><a href="https://github.com/PudgyDragon/IOCs/blob/main/All/BlackSuite%20(Royal)%20Ransomware/samples.md5">MD5</a></li>
+      <li><a href="https://github.com/PudgyDragon/IOCs/blob/main/All/BlackSuite%20(Royal)%20Ransomware/samples.sha1">SHA1</a></li>
+      <li><a href="https://github.com/PudgyDragon/IOCs/blob/main/All/BlackSuite%20(Royal)%20Ransomware/samples.sha256">SHA256</a></li>
     </td>
-    <td width="33.3%"></td>
-    <td width="33.3%"></td>
+    <td width="33.3%">
+      <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/BlackSuite%20(Royal)%20Ransomware/IPs.txt">IP</a>
+    </td>
+    <td width="33.3%">
+      <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/BlackSuite%20(Royal)%20Ransomware/uri.txt">URI</a>
+    </td>
   </tr>
 </table>
 
