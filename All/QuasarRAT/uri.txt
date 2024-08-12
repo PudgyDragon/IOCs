@@ -14,3 +14,6 @@ http://91.92.248.28/KR6nDu9fLhop1bFe.exe
 https://191.96.79.79/img/prox.txt
 http://191.96.79.79/img/prox.txt
 https://15.235.61.212/1.txt
+http://91.92.242.16/Update.exe
+http://91.92.242.16/NamzScript.exe
+http://namzsmurf.net/NamzScript.exe
