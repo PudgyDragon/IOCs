@@ -9,3 +9,8 @@ http://185.196.9.251/autotask/Eppzjtedzmk.exe
 http://45.61.137.6/tmp/mscorsvc.dll
 http://193.42.11.9/server.exe
 http://193.42.11.9/main.exe
+http://185.196.10.57/selectex-file-host/svchost.exe
+http://91.92.248.28/KR6nDu9fLhop1bFe.exe
+https://191.96.79.79/img/prox.txt
+http://191.96.79.79/img/prox.txt
+https://15.235.61.212/1.txt
