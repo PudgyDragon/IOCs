@@ -4,3 +4,6 @@ http://89.197.154.116/Updaters.exe
 http://51.77.194.181:8080/para.exe
 http://89.197.154.116/TcpExternal.exe
 http://89.197.154.116/PerformanceTest.exe
+http://202.151.176.76/m.exe
+http://202.151.176.76/test.exe
+http://89.197.154.116/Mailer.exe
