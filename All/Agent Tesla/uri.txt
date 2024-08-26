@@ -443,3 +443,5 @@ http://192.3.216.142/wednesdayfileequitossMPDW-constraints.vbs
 http://107.172.31.13/traints.vbs
 http://107.175.229.146/equitoxxxxMPDW-constraints.vbs
 http://107.175.229.146/equitoxxxxxwednesdayyysMPDW-constraints.vbs
+http://192.3.101.8/LatinAmex.txt
+http://107.175.229.146/equitoxxMPDW-constraints.vbs
