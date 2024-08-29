@@ -1,0 +1,5 @@
+login.forticloud.online
+fortigate.forticloud.online
+cloud.sophos.one
+api.gupdate.net
+githubapp.net
