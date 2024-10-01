@@ -17,3 +17,5 @@ http://147.45.44.104/revada/66efcc2ab2731_setup3.exe#lyla
 http://147.45.44.104/lopsa/66f064675abb3_lyla3.exe
 http://147.45.44.104/revada/66efcc2ab2731_setup3.exe
 http://147.45.44.104/yuop/66f3de8e8f1c5_lyla334.exe#lyla
+http://147.45.44.104/yuop/66f8672c1ff0d_lyla3334.exe#lyla3334
+http://147.45.44.104/yuop/66f8672c1ff0d_lyla3334.exe
