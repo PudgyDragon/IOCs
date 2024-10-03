@@ -11,3 +11,4 @@ http://108.174.58.28/5.exe
 http://18.143.169.29/abc.exe
 http://103.144.240.13/1.exe
 http://119.91.152.151:4442/191.exe
+http://playd.healthnlife.pk/prog/66b6233d1594d_output_32.exe
