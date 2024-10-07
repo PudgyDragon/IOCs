@@ -14,3 +14,6 @@ http://51.79.237.112/test
 http://89.197.154.116/Icon.exe
 http://45.120.107.43:8080/unencrypted.exe
 http://84.201.150.223/sh-runner.exe
+http://149.56.245.6:8080/met.exe
+http://178.128.175.240:8000/payload.msi
+http://178.128.175.240:8000/1.hta
