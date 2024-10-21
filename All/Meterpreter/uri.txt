@@ -17,3 +17,4 @@ http://84.201.150.223/sh-runner.exe
 http://149.56.245.6:8080/met.exe
 http://178.128.175.240:8000/payload.msi
 http://178.128.175.240:8000/1.hta
+http://47.236.122.191/Geek.exe
