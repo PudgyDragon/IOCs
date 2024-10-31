@@ -1,2 +1,3 @@
 alosh66.no-ip.info
 meroo.no-ip.org
+8.tcp.eu.ngrok.io:27791
