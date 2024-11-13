@@ -327,3 +327,5 @@ static.21.151.243.136.clients.your-server.de
 136.243.151.21:81
 136.243.151.21:61
 51.81.126.50:7777
+storeroot.duckdns.org
+anothonesevenfivesecsned.ddns.net
