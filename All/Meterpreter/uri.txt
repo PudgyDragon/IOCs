@@ -23,3 +23,6 @@ http://13.77.91.236:8080/staged.exe
 http://45.202.35.85/6615.exe
 http://45.202.35.85/6613.exe
 https://185.202.113.6/si.exe
+https://185.202.113.6/si.exe
+http://47.236.122.191/Geek_se.exe
+http://46.200.psinetpa.net.prodejdilu.cz/meow.exe
