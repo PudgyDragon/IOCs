@@ -17,3 +17,5 @@ http://lide.omernisar.com/prog/66b6233d1594d_output_32.exe
 http://heks.egrowbrands.com/prog/66b6233d1594d_output_32.exe
 http://mkas.rizwanmano.com/prog/66b6233d1594d_output_32.exe
 http://121.182.174.27:3000/server.exe
+http://154.218.7.16/s3.exe
+http://154.201.87.30:8888/svchot.exe
