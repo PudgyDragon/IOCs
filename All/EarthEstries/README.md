@@ -67,9 +67,9 @@
 
 ## Indicators
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/EarthEstries/samples.md5">MD5</a>
-- <a href="">SHA256</a>
-- <a href="">URI</a>
-- <a href="">IPv4</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/EarthEstries/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/EarthEstries/uri.txt">URI</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/EarthEstries/IPv4.txt">IPv4</a>
 
 
 ## Discovery
