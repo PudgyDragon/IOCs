@@ -26,3 +26,5 @@ https://185.202.113.6/si.exe
 https://185.202.113.6/si.exe
 http://47.236.122.191/Geek_se.exe
 http://46.200.psinetpa.net.prodejdilu.cz/meow.exe
+http://134.195.90.78:9090/t5.dll
+http://134.195.90.78:9090/90.exe
