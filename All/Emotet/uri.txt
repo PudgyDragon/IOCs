@@ -4,3 +4,4 @@ http://147.45.44.104/prog/66c9d78d43c01_valensu.exe
 http://5.tcp.eu.ngrok.io:15426
 https://giantowl.flywheelsites.com/wn1a0/build.exe
 http://5.tcp.eu.ngrok.io:15426
+http://194.90.142.157/exe/exe009.exe
