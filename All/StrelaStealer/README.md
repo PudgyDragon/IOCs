@@ -1,4 +1,3 @@
-
 # Strela Stealer
 
 ## Articles
@@ -25,9 +24,7 @@
       <p>November 18, 2024</p>
     </td>
   </tr>
-
 </table>
-
 
 
 ## Indicators
