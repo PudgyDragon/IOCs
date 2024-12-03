@@ -16,6 +16,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://thehackernews.com/2024/12/north-korean-kimsuky-hackers-use.html">The Hacker News</a>
+    </td>
+    <td>
+      <p>North Korean Kimsuky Hackers Use Russian Email Addresses for Credential Theft Attacks</p>
+    </td>
+    <td>
+      <p>December 3, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://cyberarmor.tech/wp-content/uploads/2024/06/New-North-Korean-based-backdoor-packs-a-punch.pdf">Bart Blaze & Nguyen Nguyen</a>
     </td>
     <td>
