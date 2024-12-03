@@ -52,6 +52,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://www.trendmicro.com/en_us/research/24/k/earth-estries.html">Trend Micro</a>
+    </td>
+    <td>
+      <p>Game of Emperor: Unveiling Long Term Earth Estries Cyber Intrusions</p>
+    </td>
+    <td>
+      <p>November 25, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.trendmicro.com/en_us/research/24/k/breaking-down-earth-estries-persistent-ttps-in-prolonged-cyber-o.html">Trend Micro</a>
     </td>
     <td>
