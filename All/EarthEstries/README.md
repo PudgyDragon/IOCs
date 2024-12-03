@@ -16,7 +16,7 @@
       <p>Target Sectors</p>
     </td>
     <td>
-      <p></p>
+      <p>Telecommunications, Technology, Consulting, Chemical, Transportation, Government, Non-Profit Organizations (NGOs)</p>
     </td>
   </tr>
   <tr>
@@ -24,7 +24,7 @@
       <p>Associated Malware</p>
     </td>
     <td>
-      <p></p>
+      <p>SNAPPYBEE, DEMODEX, GHOSTSPIDER</p>
     </td>
   </tr>
   <tr>
