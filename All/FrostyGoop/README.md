@@ -1,6 +1,6 @@
-# FrostyGoop
+<h1 align="center">FrostyGoop</h1>
 
-## Articles
+<h2>Articles</h2>
 <table>
   <tr>
     <td>
@@ -50,7 +50,7 @@
 
 
 
-## Indicators
+<h2>Indicators</h2>
 <table>
   <tr>
     <td width="33.3%">
@@ -80,4 +80,4 @@
   </tr>
 </table>
 
-## Discovery
+<h2>Discovery</h2>
