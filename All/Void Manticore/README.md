@@ -88,7 +88,7 @@
 
 
 ## Indicators
-
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Void%20Manticore/samples.md5">MD5</a>
 
 
 ## Discovery
