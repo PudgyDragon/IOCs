@@ -8,7 +8,7 @@
       <p>Associated Groups</p>
     </td>
     <td>
-      <p>HomeLand Justice, Karma</p>
+      <p>Storm-842, HomeLand Justice, Karma</p>
     </td>
   </tr>
   <tr>
@@ -81,6 +81,17 @@
     </td>
     <td>
       <p>September 23, 2022</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.microsoft.com/en-us/security/blog/2022/09/08/microsoft-investigates-iranian-attacks-against-the-albanian-government/">Microsoft Threat Intelligence</a>
+    </td>
+    <td>
+      <p>Microsoft investigates Iranian attacks against the Albanian government</p>
+    </td>
+    <td>
+      <p>September 8, 2022</p>
     </td>
   </tr>
 </table>
