@@ -82,6 +82,28 @@
   </tr>
   <tr>
     <td>
+      <a href="https://unit42.paloaltonetworks.com/turla-pensive-ursa-threat-assessment/">Unit 42</a>
+    </td>
+    <td>
+      <p>Threat Group Assessment: Turla (aka Pensive Ursa)</p>
+    </td>
+    <td>
+      <p>September 15, 2023</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.justice.gov/usao-edny/pr/justice-department-announces-court-authorized-disruption-snake-malware-network">DOJ</a>
+    </td>
+    <td>
+      <p>Justice Department Announces Court-Authorized Disruption of the Snake Malware Network Controlled by Russia's Federal Security Service</p>
+    </td>
+    <td>
+      <p>May 9, 2023</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a">CISA</a>
     </td>
     <td>
