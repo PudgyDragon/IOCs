@@ -1,0 +1,55 @@
+# DroidBot
+
+## Articles
+<table>
+  <tr>
+    <td>
+      <h3>Publisher</h3>
+    </td>
+    <td>
+      <h3>Title</h3>
+    </td>
+    <td>
+      <h3>Last Revised</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.bleepingcomputer.com/news/security/new-droidbot-android-banking-malware-spreads-across-europe/">BleepingComputer</a>
+    </td>
+    <td>
+      <p>New DroidBot Android banking malware spreads across Europe</p>
+    </td>
+    <td>
+      <p>December 4, 2024</p>
+    </td>
+  </tr>
+</table>
+
+
+
+## Indicators
+<table>
+  <tr>
+    <td width="33.3%">
+      <h3>Hash Values</h3>
+    </td>
+    <td width="33.3%">
+      <h3>IP Addresses</h3>
+    </td>
+    <td width="33.3%">
+      <h3>URI/Domains</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%">
+      <ul>
+        <a href="">MD5</a>
+      </ul>
+    </td>
+    <td width="33.3%"></td>
+    <td width="33.3%"></td>
+  </tr>
+</table>
+
+## Discovery
