@@ -21,7 +21,7 @@
       <p>Agent Tesla</p>
     </td>
     <td>
-      <p>11 Sept, 2023</p>
+      <p>September 11, 2023</p>
     </td>
   </tr>
   <tr>
