@@ -93,6 +93,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://therecord.media/turla-hackers-targeting-ukraine-defense">The Record</a>
+    </td>
+    <td>
+      <p>Russia’s Turla hackers target Ukraine’s defense with spyware</p>
+    </td>
+    <td>
+      <p>July 19, 2023</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://cert.gov.ua/article/5213167">CERT-UA</a>
     </td>
     <td>
