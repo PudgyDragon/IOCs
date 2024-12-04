@@ -1,41 +1,5 @@
 # Agent Tesla
 
-## About
-<table>
-  <tr>
-    <td>
-      <p>Associated Groups</p>
-    </td>
-    <td>
-      <p>SilverTerrier, TA2541</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Target Sectors</p>
-    </td>
-    <td>
-      <p></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Associated Malware</p>
-    </td>
-    <td>
-      <p></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Suspected Attribution</p>
-    </td>
-    <td>
-      <p></p>
-    </td>
-  </tr>
-</table>
-
 ## Articles
 <table>
   <tr>
@@ -72,7 +36,6 @@
     </td>
   </tr>
 </table>
-
 
 
 ## Indicators
