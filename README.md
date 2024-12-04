@@ -4,7 +4,7 @@ Repository of IOCs that can be pulled into tools. Starting this repo because a l
 
 ## Industry Specific
 <p>Based on MITRE ATT&CK Navigator, which can be found at <a href="https://mitre-attack.github.io/attack-navigator/">MITRE</a></p>
-<table>
+<table align="center">
   <tr>
     <td>
       <p>Critical Infrastructure</p>
@@ -52,5 +52,22 @@ Repository of IOCs that can be pulled into tools. Starting this repo because a l
 </table>
 
 ## Microsoft APT Naming Convention
-<img src="https://learn.microsoft.com/en-us/defender/media/threat-actor-naming/threat-actor-categories.png">
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/defender/media/threat-actor-naming/threat-actor-categories.png">
+</p>
 
+
+## Crowdstrike APT Naming Convention
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*IlXJnqOYwPglyWMi_GvNFA.png">
+</p>
+
+## Palo Alto APT Naming Convention
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*lWXJ_PIKeZBdNtZNMFVuyQ.png">
+</p>
+
+## Trend Micro APT Naming Convention
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*sFlCz2Hq9EUkalNutU_tbA.png">
+</p>
