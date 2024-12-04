@@ -93,6 +93,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://cert.gov.ua/article/5213167">CERT-UA</a>
+    </td>
+    <td>
+      <p>Targeted Turla attacks (UAC-0024, UAC-0003) using CAPIBAR and KAZUAR malware (CERT-UA#6981)</p>
+    </td>
+    <td>
+      <p>July 18, 2023</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.justice.gov/usao-edny/pr/justice-department-announces-court-authorized-disruption-snake-malware-network">DOJ</a>
     </td>
     <td>
@@ -165,9 +176,6 @@
   </tr>
   <tr>
     <td width="33.3%">
-      <ul>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT17/samples.md5">MD5</a>
-      </ul>
       <ul>
         <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Turla/samples.sha256">SHA256</a>
       </ul>
