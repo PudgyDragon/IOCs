@@ -24,6 +24,19 @@
       <p>December 4, 2024</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.cleafy.com/cleafy-labs/droidbot-insights-from-a-new-turkish-maas-fraud-operation">Cleafy</a>
+    </td>
+    <td>
+      <p>DroidBot: Insights from a new Turkish MaaS fraud operation</p>
+    </td>
+    <td>
+      <p>
+        April 12, 2024
+      </p>
+    </td>
+  </tr>
 </table>
 
 
