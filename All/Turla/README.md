@@ -60,6 +60,17 @@
       <p>December 4, 2024</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://thehackernews.com/2024/12/russia-linked-turla-exploits-pakistani.html">The Hacker News</a>
+    </td>
+    <td>
+      <p>Russia-Linked Turla Exploits Pakistani Hackers' Servers to Target Afghan and Indian Entities</p>
+    </td>
+    <td>
+      <p>December 4, 2024</p>
+    </td>
+  </tr>
 </table>
 
 
