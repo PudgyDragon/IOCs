@@ -44,11 +44,13 @@
   <tr>
     <td width="33.3%">
       <ul>
-        <a href="">MD5</a>
+        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/DroidBot/samples.md5">MD5</a>
       </ul>
     </td>
     <td width="33.3%"></td>
-    <td width="33.3%"></td>
+    <td width="33.3%">
+      <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/DroidBot/uri.txt">URI</a>
+    </td>
   </tr>
 </table>
 
