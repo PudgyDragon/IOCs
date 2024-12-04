@@ -177,6 +177,9 @@
   <tr>
     <td width="33.3%">
       <ul>
+        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Turla/samples.md5">MD5</a>
+      </ul>
+      <ul>
         <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Turla/samples.sha256">SHA256</a>
       </ul>
     </td>
