@@ -7,7 +7,7 @@
       <p>Associated Groups</p>
     </td>
     <td>
-      <p>Secret Blizzard, Blue Python, Iron Hunter, Pensive Ursa, Snake, SUMMIT, Uroburos, Venomous Bear, Waterbug</p>
+      <p>Secret Blizzard, Blue Python, Iron Hunter, Pensive Ursa, Snake, SUMMIT, Uroburos, Venomous Bear, Waterbug, WhiteBear, Krypton, BELUGASTURGEON</p>
     </td>
   </tr>
   <tr>
