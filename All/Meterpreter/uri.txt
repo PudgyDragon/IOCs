@@ -28,3 +28,6 @@ http://47.236.122.191/Geek_se.exe
 http://46.200.psinetpa.net.prodejdilu.cz/meow.exe
 http://134.195.90.78:9090/t5.dll
 http://134.195.90.78:9090/90.exe
+http://89.197.154.116/CISCO.exe
+http://github.com/baksvoronov/testingflrplgpreg/raw/refs/heads/main/connector1.exe
+https://raw.githubusercontent.com/trafunny/malware-file/refs/heads/main/crack.exe
