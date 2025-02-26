@@ -2,3 +2,5 @@ wss://127.0.0.1:20089/Test
 https://altavista.rs/wp-includes/ID3/PerceptionSimulation/
 https://m6front.sam-maintenance.com/wp-includes/customize/assembly/
 https://bibliotecaunicef.uy/catalog/notices/tags/
+connectotels.net
+hostelhotels.net
