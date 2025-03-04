@@ -24,7 +24,18 @@
       <p>February 26, 2025</p>
     </td>
   </tr>
-  </table>
+  <tr>
+    <td>
+      <a href="https://gbhackers.com/silver-fox-apt-hackers-target-healthcare-services/">GBHackers</a>
+    </td>
+    <td>
+      <p>Silver Fox APT Hackers Target Healthcare Services to Steal Sensitive Data</p>
+    </td>
+    <td>
+      <p>February 26, 2025</p>
+    </td>
+  </tr>
+</table>
 
 
 ## Indicators
