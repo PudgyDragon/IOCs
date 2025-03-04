@@ -50,9 +50,9 @@
 
 
 ## Indicators
-- <a href="">SHA256</a>
-- <a href="">URI</a>
-- <a href="">IPv4</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/PolarEdge/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/PolarEdge/uri.txt">URI</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/PolarEdge/IPv4.txt">IPv4</a>
 
 ## Discovery
 
