@@ -24,6 +24,17 @@
       <p>February 27, 2025</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://malpedia.caad.fkie.fraunhofer.de/details/win.njrat">malpedia</a>
+    </td>
+    <td>
+      <p>NjRAT</p>
+    </td>
+    <td>
+      <p></p>
+    </td>
+  </tr>
 </table>
 
 
