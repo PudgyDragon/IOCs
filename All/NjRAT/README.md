@@ -28,9 +28,9 @@
 
 
 ## Indicators
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/njRAT/samples.md5">MD5</a>
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/njRAT/samples.sha1">SHA1</a>
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/njRAT/samples.sha256">SHA256</a>
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/njRAT/uri.txt">URI</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/NjRAT/samples.md5">MD5</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/NjRAT/samples.sha1">SHA1</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/NjRAT/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/NjRAT/uri.txt">URI</a>
 
 ## Discovery
