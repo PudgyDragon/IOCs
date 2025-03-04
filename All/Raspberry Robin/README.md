@@ -28,7 +28,7 @@
 
 
 ## Indicators
-- <a href="">SHA256</a>
-- <a href="">URI</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Raspberry%20Robin/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Raspberry%20Robin/uri.txt">URI</a>
 
 ## Discovery
