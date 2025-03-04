@@ -105,5 +105,8 @@
 
 
 ## Indicators
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Silver%20Fox/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Silver%20Fox/IPv4.txt">IPv4</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Silver%20Fox/uri.txt">URI</a>
 
 ## Discovery
