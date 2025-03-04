@@ -26,6 +26,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://www.cshub.com/attacks/articles/cyber-attacks-data-breaches-february-2025?utm_medium=RSS">Cyber Security Hub</a>
+    </td>
+    <td>
+      <p>9 major cyber attacks & data breaches in February 2025</p>
+    </td>
+    <td>
+      <p>February 27, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.bleepingcomputer.com/news/security/lazarus-hacked-bybit-via-breached-safe-wallet-developer-machine/">BleepingComputer</a>
     </td>
     <td>
