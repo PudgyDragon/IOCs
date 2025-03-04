@@ -15,7 +15,7 @@
   </tr>
    <tr>
     <td>
-      <a href="https://blog.bushidotoken.net/2025/02/blackbasta-leaks-lessons-from-ascension.html">Joint Cybersecurity Advisory</a>
+      <a href="https://www.ic3.gov/CSA/2024/241120.pdf">Joint Cybersecurity Advisory</a>
     </td>
     <td>
       <p>#StopRansomware: BianLian Data Extortion Group</p>
