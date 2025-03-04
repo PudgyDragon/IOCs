@@ -61,8 +61,8 @@
 
 
 ## Indicators
-- <a href="">SHA256</a>
-- <a href="">URI</a>
-- <a href="">IPv4</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lotus%20Blossom/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lotus%20Blossom/uri.txt">URI</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lotus%20Blossom/IPv4.txt">IPv4</a>
 
 ## Discovery
