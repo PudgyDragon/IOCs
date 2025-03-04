@@ -10,7 +10,7 @@
       <h3>Title</h3>
     </td>
     <td>
-      <h3>Last Revised</h3>
+      <h3>Date</h3>
     </td>
   </tr>
    <tr>
@@ -30,6 +30,17 @@
     </td>
     <td>
       <p>Inside the Black Basta Leak: How Ransomware Operators Gain Access</p>
+    </td>
+    <td>
+      <p>February 26, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.bleepingcomputer.com/news/security/southern-water-says-black-basta-ransomware-attack-cost-45m-in-expenses/">BleepingComputer
+    </td>
+    <td>
+      <p>Southern Water says Black Basta ransomware attack cost £4.5M in expenses</p>
     </td>
     <td>
       <p>February 26, 2025</p>
