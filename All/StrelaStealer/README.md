@@ -35,6 +35,28 @@
       <p>November 18, 2024</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://securityintelligence.com/x-force/strela-stealer-todays-invoice-tomorrows-phish/">IBM X-Force</a>
+    </td>
+    <td>
+      <p>Strela Stealer: Today’s invoice is tomorrow’s phish</p>
+    </td>
+    <td>
+      <p>November 12, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://medium.com/@DCSO_CyTec/shortandmalicious-strelastealer-aims-for-mail-credentials-a4c3e78c8abc">DCSO CyTec Blog</a>
+    </td>
+    <td>
+      <p>#ShortAndMalicious: StrelaStealer aims for mail credentials</p>
+    </td>
+    <td>
+      November 8, 2022
+    </td>
+  </tr>
 </table>
 
 
