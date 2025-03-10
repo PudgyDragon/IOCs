@@ -10,7 +10,18 @@
       <h3>Title</h3>
     </td>
     <td>
-      <h3>Last Revised</h3>
+      <h3>Date</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/a-deep-dive-into-strela-stealer-and-how-it-targets-european-countries/">Trustwave</a>
+    </td>
+    <td>
+      <p>A Deep Dive into Strela Stealer and how it Targets European Countries</p>
+    </td>
+    <td>
+      <p>March 6, 2025</p>
     </td>
   </tr>
   <tr>
@@ -34,4 +45,3 @@
 
 
 ## Discovery
-Rules
