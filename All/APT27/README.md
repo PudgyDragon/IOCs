@@ -46,6 +46,17 @@
       <p>March 5, 2025</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.state.gov/up-to-2-million-reward-offers-each-for-information-leading-to-arrests-and-or-convictions-of-malicious-cyber-actors-from-china">DOS</a>
+    </td>
+    <td>
+      <p>Up to $2 Million Reward Offers Each for Information Leading to Arrests and/or Convictions of Malicious Cyber Actors from China</p>
+    </td>
+    <td>
+      <p>March 5, 2025</p>
+    </td>
+  </tr>
 </table>
 
 
