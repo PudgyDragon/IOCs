@@ -13,12 +13,23 @@
       <h3>Date</h3>
     </td>
   </tr>
-   <tr>
+  <tr>
     <td>
       <a href="https://www.justice.gov/usao-dc/pr/chinese-nationals-ties-prc-government-and-apt27-charged-computer-hacking-campaign-profit">DOJ</a>
     </td>
     <td>
       <p>Chinese Nationals with Ties to the PRC Government and “APT27” Charged in a Computer Hacking Campaign for Profit, Targeting Numerous U.S. Companies, Institutions, and Municipalities</p>
+    </td>
+    <td>
+      <p>March 5, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global">DOJ</a>
+    </td>
+    <td>
+      <p>Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns</p>
     </td>
     <td>
       <p>March 5, 2025</p>
