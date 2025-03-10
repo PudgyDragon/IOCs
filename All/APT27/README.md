@@ -35,6 +35,17 @@
       <p>March 5, 2025</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.ic3.gov/PSA/2025/PSA250305">FBI IC3</a>
+    </td>
+    <td>
+      <p>Beijing Leveraging Freelance Hackers and Information Security Companies to Compromise Computer Networks Worldwide</p>
+    </td>
+    <td>
+      <p>March 5, 2025</p>
+    </td>
+  </tr>
 </table>
 
 
