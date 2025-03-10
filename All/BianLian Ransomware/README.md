@@ -13,7 +13,18 @@
       <h3>Date</h3>
     </td>
   </tr>
-   <tr>
+  <tr>
+    <td>
+      <a href="https://www.ic3.gov/PSA/2025/PSA250306-2">FBI IC3</a>
+    </td>
+    <td>
+      <p>Mail Scam Targeting Corporate Executives Claims Ties to Ransomware</p>
+    </td>
+    <td>
+      <p>March 6, 2025</p>
+    </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://www.ic3.gov/CSA/2024/241120.pdf">Joint Cybersecurity Advisory</a>
     </td>
