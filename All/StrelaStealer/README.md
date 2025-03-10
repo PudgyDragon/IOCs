@@ -42,6 +42,8 @@
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/StrelaStealer/samples.md5">MD5</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/StrelaStealer/samples.sha1">SHA1</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/StrelaStealer/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/StrelaStealer/IPv4.txt">IPv4</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/StrelaStealer/uri.txt">URI</a>
 
 
 ## Discovery
