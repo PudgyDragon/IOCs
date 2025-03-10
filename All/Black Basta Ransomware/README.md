@@ -13,7 +13,18 @@
       <h3>Date</h3>
     </td>
   </tr>
-   <tr>
+  <tr>
+    <td>
+      <a href="https://www.esentire.com/blog/initial-takeaways-from-the-black-basta-chat-leaks">esentire</a>
+    </td>
+    <td>
+      <p>Initial Takeaways from the Black Basta Chat Leaks</p>
+    </td>
+    <td>
+      March 5, 2025
+    </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://blog.bushidotoken.net/2025/02/blackbasta-leaks-lessons-from-ascension.html">BushidoToken</a>
     </td>
