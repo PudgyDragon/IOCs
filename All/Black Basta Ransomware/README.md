@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://www.bleepingcomputer.com/news/security/southern-water-says-black-basta-ransomware-attack-cost-45m-in-expenses/">BleepingComputer
+      <a href="https://www.bleepingcomputer.com/news/security/southern-water-says-black-basta-ransomware-attack-cost-45m-in-expenses/">BleepingComputer</a>
     </td>
     <td>
       <p>Southern Water says Black Basta ransomware attack cost £4.5M in expenses</p>
@@ -66,6 +66,50 @@
     </td>
     <td>
       <p>February 20, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://thehackernews.com/2024/12/black-basta-ransomware-evolves-with.html">The Hacker News</a>
+    </td>
+    <td>
+      <p>Black Basta Ransomware Evolves with Email Bombing, QR Codes, and Social Engineering</p>
+    </td>
+    <td>
+      <p>December 9, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.rapid7.com/blog/post/2024/12/04/black-basta-ransomware-campaign-drops-zbot-darkgate-and-custom-malware/">Rapid7</a>
+    </td>
+    <td>
+      <p>Black Basta Ransomware Campaign Drops Zbot, DarkGate, and Custom Malware</p>
+    </td>
+    <td>
+      <p>December 4, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.bleepingcomputer.com/news/security/bt-conferencing-division-took-servers-offline-after-black-basta-ransomware-attack/">BleepingComputer</a>
+    </td>
+    <td>
+      <p>BT unit took servers offline after Black Basta ransomware breach</p>
+    </td>
+    <td>
+      <p>December 4, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.rapid7.com/blog/post/2024/08/12/ongoing-social-engineering-campaign-refreshes-payloads/">Rapid7</a>
+    </td>
+    <td>
+      <p>Ongoing Social Engineering Campaign Refreshes Payloads</p>
+    </td>
+    <td>
+      <p>August 12, 2024</p>
     </td>
   </tr>
   <tr>
@@ -96,6 +140,17 @@
     </td>
     <td>
       <p>#StopRansomware: Black Basta</p>
+    </td>
+    <td>
+      <p>May 10, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.rapid7.com/blog/post/2024/05/10/ongoing-social-engineering-campaign-linked-to-black-basta-ransomware-operators/">Rapid7</a>
+    </td>
+    <td>
+      <p>Ongoing Social Engineering Campaign Linked to Black Basta Ransomware Operators</p>
     </td>
     <td>
       <p>May 10, 2024</p>
