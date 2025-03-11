@@ -26,6 +26,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://arcticwolf.com/resources/blog/self-proclaimed-bianlian-group-uses-physical-mail-to-extort-organizations/">Arctic Wolf</a>
+    </td>
+    <td>
+      <p>Self-Proclaimed “BianLian Group” Uses Physical Mail to Extort Organizations</p>
+    </td>
+    <td>
+      <p>March 4, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.ic3.gov/CSA/2024/241120.pdf">Joint Cybersecurity Advisory</a>
     </td>
     <td>
