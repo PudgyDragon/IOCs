@@ -26,6 +26,39 @@
   </tr>
   <tr>
     <td>
+      <a href="https://blogs.infoblox.com/threat-intelligence/dns-early-detection-fast-propagating-fake-captcha-distributes-lummastealer/">infoblox</a>
+    </td>
+    <td>
+      <p>DNS Early Detection – Fast Propagating Fake Captcha distributes LummaStealer</p>
+    </td>
+    <td>
+      <p>February 26, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.cybereason.com/blog/threat-analysis-rise-of-lummastealer">Cybereason</a>
+    </td>
+    <td>
+      <p>Your Data Is Under New Lummanagement: The Rise of LummaStealer</p>
+    </td>
+    <td>
+      <p></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/lumma-stealer-on-the-rise-how-telegram-channels-are-fueling-malware-proliferation/">McAfee</a>
+    </td>
+    <td>
+      <p>Lumma Stealer on the Rise: How Telegram Channels Are Fueling Malware Proliferation</p>
+    </td>
+    <td>
+      <p>November 20, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://cloud.google.com/blog/topics/threat-intelligence/lummac2-obfuscation-through-indirect-control-flow">Mandiant</a>
     </td>
     <td>
