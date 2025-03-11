@@ -37,6 +37,28 @@
   </tr>
   <tr>
     <td>
+      <a href="https://www.cloudsek.com/blog/lumma-stealer-chronicles-pdf-themed-campaign-using-compromised-educational-institutions-infrastructure">CloudSEK</a>
+    </td>
+    <td>
+      <p>Lumma Stealer Chronicles: PDF-themed Campaign Using Compromised Educational Institutions' Infrastructure</p>
+    </td>
+    <td>
+      <p>February 14, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.trendmicro.com/en_us/research/25/a/lumma-stealers-github-based-delivery-via-mdr.html">Trend Micro</a>
+    </td>
+    <td>
+      <p>Lumma Stealer’s GitHub-Based Delivery Explored via Managed Detection and Response</p>
+    </td>
+    <td>
+      <p>January 30, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.cybereason.com/blog/threat-analysis-rise-of-lummastealer">Cybereason</a>
     </td>
     <td>
@@ -99,6 +121,17 @@
     </td>
     <td>
       <p>November 20, 2023</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.trendmicro.com/en_us/research/23/j/beware-lumma-stealer-distributed-via-discord-cdn-.html">Trend Micro</a>
+    </td>
+    <td>
+      <p>Beware: Lumma Stealer Distributed via Discord CDN</p>
+    </td>
+    <td>
+      <p>October 16, 2023</p>
     </td>
   </tr>
 </table>
