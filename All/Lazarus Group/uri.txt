@@ -27,3 +27,6 @@ http://freeconference.io
 http://mirotalk.net
 http://ipcheck.cloud
 http://regioncheck.net
+91.92.120.132:80/client/xxx
+91.92.120.132:80/pdown
+91.92.120.132:80/uploads
