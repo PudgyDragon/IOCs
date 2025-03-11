@@ -59,6 +59,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://www.silentpush.com/blog/lazarus-bybit/">Silent Push</a>
+    </td>
+    <td>
+      <p>Silent Push Pivots into New Lazarus Group Infrastructure, Acquires Sensitive Intel Related to $1.4B ByBit Hack and Past Attacks</p>
+    </td>
+    <td>
+      <p>February 25, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-linked-to-15-billion-bybit-crypto-heist/">BleepingComputer</a>
     </td>
     <td>
@@ -92,6 +103,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://securityscorecard.com/blog/lazarus-group-targets-developers-through-npm-packages-and-supply-chain-attacks/">SecurityScorecard</a>
+    </td>
+    <td>
+      <p>Lazarus Group Targets Developers Through NPM Packages and Supply Chain Attacks</p>
+    </td>
+    <td>
+      <p>February 13, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://socket.dev/blog/north-korean-apt-lazarus-targets-developers-with-malicious-npm-package">Socket</a>
     </td>
     <td>
@@ -99,6 +121,17 @@
     </td>
     <td>
       <p>January 29, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://securityscorecard.com/blog/operation-99-north-koreas-cyber-assault-on-software-developers/">SecurityScorecard</a>
+    </td>
+    <td>
+      <p>Operation 99: North Korea’s Cyber Assault on Software Developers</p>
+    </td>
+    <td>
+      <p>January 15, 2025</p>
     </td>
   </tr>
   <tr>
@@ -121,6 +154,17 @@
     </td>
     <td>
       <p>November 13, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://securityscorecard.com/blog/inside-a-north-korean-phishing-operation-targeting-devops-employees/">SecurityScorecard</a>
+    </td>
+    <td>
+      <p>Inside a North Korean Phishing Operation Targeting DevOps Employees</p>
+    </td>
+    <td>
+      <p>October 29, 2024</p>
     </td>
   </tr>
   <tr>
