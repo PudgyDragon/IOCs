@@ -92,6 +92,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://socket.dev/blog/north-korean-apt-lazarus-targets-developers-with-malicious-npm-package">Socket</a>
+    </td>
+    <td>
+      <p>North Korean APT Lazarus Targets Developers with Malicious npm Package</p>
+    </td>
+    <td>
+      <p>January 29, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.bleepingcomputer.com/news/security/us-govt-says-north-korea-stole-over-659-million-in-crypto-last-year/">BleepingComputer</a>
     </td>
     <td>
