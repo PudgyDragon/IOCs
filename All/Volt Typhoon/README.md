@@ -10,7 +10,7 @@
       <h3>Title</h3>
     </td>
     <td>
-      <h3>Last Revised</h3>
+      <h3>Date</h3>
     </td>
   </tr>
   <tr>
@@ -115,7 +115,6 @@
 </table>
 
 ## Indicators
-Hash Values
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Volt%20Typhoon/samples.md5">MD5</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Volt%20Typhoon/samples.sha1">SHA1</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Volt%20Typhoon/samples.sha256">SHA256</a>
@@ -124,5 +123,4 @@ Hash Values
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Volt%20Typhoon/IPs.txt">IP</a>
 
 ## Discovery
-Rules
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Volt%20Typhoon/KQL.txt">KQL</a>
