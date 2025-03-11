@@ -21,7 +21,7 @@
       <p>Initial Takeaways from the Black Basta Chat Leaks</p>
     </td>
     <td>
-      March 5, 2025
+      <p>March 5, 2025</p>
     </td>
   </tr>
   <tr>
