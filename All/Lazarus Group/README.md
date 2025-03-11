@@ -103,6 +103,28 @@
   </tr>
   <tr>
     <td>
+      <a href="https://www.group-ib.com/blog/stealthy-attributes-of-apt-lazarus/">Group-IB</a>
+    </td>
+    <td>
+      <p>Stealthy Attributes of Lazarus APT Group: Evading Detection with Extended Attributes</p>
+    </td>
+    <td>
+      <p>November 13, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.group-ib.com/blog/apt-lazarus-python-scripts/">Group-IB</a>
+    </td>
+    <td>
+      <p>APT Lazarus: Eager Crypto Beavers, Video calls and Games</p>
+    </td>
+    <td>
+      <p>September 4, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.ic3.gov/CSA/2022/220418.pdf">Joint Cybersecurity Advisory</a>
     </td>
     <td>
