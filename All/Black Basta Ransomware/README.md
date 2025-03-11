@@ -111,4 +111,4 @@
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Black%20Basta%20Ransomware/uri.txt">URI</a>
 
 ## Discovery
-Rules
+
