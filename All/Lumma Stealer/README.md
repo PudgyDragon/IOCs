@@ -109,6 +109,7 @@
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lumma%20Stealer/samples.md5">MD5</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lumma%20Stealer/samples.sha1">SHA1</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lumma%20Stealer/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lumma%20Stealer/IPv4.txt">IPv4</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Lumma%20Stealer/uri.txt">URI</a>
 
 
