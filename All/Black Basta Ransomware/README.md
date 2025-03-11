@@ -103,6 +103,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://www.reliaquest.com/blog/black-basta-social-engineering-technique-microsoft-teams/">ReliaQuest</a>
+    </td>
+    <td>
+      <p>ReliaQuest Uncovers New Black Basta Social Engineering Technique</p>
+    </td>
+    <td>
+      <p>October 25, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.rapid7.com/blog/post/2024/08/12/ongoing-social-engineering-campaign-refreshes-payloads/">Rapid7</a>
     </td>
     <td>
@@ -129,6 +140,17 @@
     </td>
     <td>
       <p>Threat actors misusing Quick Assist in social engineering attacks leading to ransomware</p>
+    </td>
+    <td>
+      <p>May 15, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.reliaquest.com/blog/new-black-basta-social-engineering-scheme/">ReliaQuest</a>
+    </td>
+    <td>
+      <p>New Black Basta Social Engineering Scheme</p>
     </td>
     <td>
       <p>May 15, 2024</p>
