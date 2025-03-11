@@ -54,7 +54,7 @@
       <p>Identifying and Mitigating Living Off the Land Techniques</p>
     </td>
     <td>
-      <p>Feb 7, 2024</p>
+      <p>February 7, 2024</p>
     </td>
   </tr>
   <tr>
@@ -65,7 +65,18 @@
       <p>PRC State-Sponsored Actors Compromise and Maintain Persistent Access to U.S. Critical Infrastructure</p>
     </td>
     <td>
-      <p>Feb 7, 2024</p>
+      <p>February 7, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://securityscorecard.com/blog/threat-intelligence-research-volt-typhoon/">Security Scorecard</a>
+    </td>
+    <td>
+      <p>Threat Intelligence Research: Volt Typhoon Compromises 30% of Cisco RV320/325 Devices in 37 Days</p>
+    </td>
+    <td>
+      <p>January 11, 2024</p>
     </td>
   </tr>
   <tr>
@@ -76,7 +87,7 @@
       <p>Analysis Report</p>
     </td>
     <td>
-      <p>Feb 2, 2024</p>
+      <p>February 2, 2024</p>
     </td>
   </tr>
   <tr>
@@ -87,7 +98,7 @@
       <p>Volt Typhoon targets US critical infrastructure with living-off-the-land techniques</p>
     </td>
     <td>
-      <p></p>
+      <p>May 24, 2023</p>
     </td>
   </tr>
   <tr>
@@ -98,20 +109,9 @@
       <p>People's Republic of China State-Sponsored Cyber Actor Living off the Land to Evade Detection</p>
     </td>
     <td>
-      <p></p>
+      <p>May 24, 2023</p>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://resources.securityscorecard.com/research/volt-typhoon">Security Scorecard</a>
-    </td>
-    <td>
-      <p>Volt Typhoon Compromises 30% of Cisco RV320/325 Devices in 37 Days</p>
-    </td>
-    <td>
-      <p></p>
-    </td>
-  </tr>
+  </tr>  
 </table>
 
 ## Indicators
