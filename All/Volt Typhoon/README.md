@@ -15,6 +15,39 @@
   </tr>
   <tr>
     <td>
+      <a href="https://www.tenable.com/blog/volt-typhoon-u-s-critical-infrastructure-targeted-by-state-sponsored-actors">Tenable</a>
+    </td>
+    <td>
+      <p>Volt Typhoon: U.S. Critical Infrastructure Targeted by State-Sponsored Actors</p>
+    </td>
+    <td>
+      <p>November 19, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.theregister.com/2024/11/13/china_volt_typhoon_back/?td=keepreading">The Register</a>
+    </td>
+    <td>
+      <p>China's Volt Typhoon crew and its botnet surge back with a vengeance</p>
+    </td>
+    <td>
+      <p>November 13, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.theregister.com/2024/11/06/chinas_volt_typhoon_breached_singtel/">The Register</a>
+    </td>
+    <td>
+      <p>China's Volt Typhoon reportedly breached Singtel in 'test-run' for US telecom attacks</p>
+    </td>
+    <td>
+      <p>November 6, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://media.defense.gov/2024/Feb/07/2003389936/-1/-1/0/JOINT-GUIDANCE-IDENTIFYING-AND-MITIGATING-LOTL.PDF">Defense.gov</a>
     </td>
     <td>
