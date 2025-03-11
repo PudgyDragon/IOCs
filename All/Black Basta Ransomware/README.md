@@ -70,6 +70,28 @@
   </tr>
   <tr>
     <td>
+      <a href="https://www.security.com/threat-intelligence/black-basta-ransomware-zero-day">Symantec</a>
+    </td>
+    <td>
+      <p>Ransomware Attackers May Have Used Privilege Escalation Vulnerability as Zero-day</p>
+    </td>
+    <td>
+      <p>June 12, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.microsoft.com/en-us/security/blog/2024/05/15/threat-actors-misusing-quick-assist-in-social-engineering-attacks-leading-to-ransomware/">Microsoft Security</a>
+    </td>
+    <td>
+      <p>Threat actors misusing Quick Assist in social engineering attacks leading to ransomware</p>
+    </td>
+    <td>
+      <p>May 15, 2024</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.cisa.gov/sites/default/files/2024-05/aa24-131a-joint-csa-stopransomware-black-basta_1.pdf">Joint Cybersecurity Advisory</a>
     </td>
     <td>
