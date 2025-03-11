@@ -29,5 +29,7 @@
 
 
 ## Indicators
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Ghost%20Ransomware/samples.md5">MD5</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Ghost%20Ransomware/emails.txt">Emails</a>
 
 ## Discovery
