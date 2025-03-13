@@ -10,7 +10,7 @@
       <h3>Title</h3>
     </td>
     <td>
-      <h3>Last Revised</h3>
+      <h3>Date</h3>
     </td>
   </tr>
   <tr>
