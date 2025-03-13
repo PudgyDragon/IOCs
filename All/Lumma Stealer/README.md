@@ -15,6 +15,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://www.trendmicro.com/en_us/research/25/c/ai-assisted-fake-github-repositories.html">Trend Micro</a>
+    </td>
+    <td>
+      <p>AI-Assisted Fake GitHub Repositories Fuel SmartLoader and LummaStealer Distribution</p>
+    </td>
+    <td>
+      <p>March 11, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://hackread.com/angry-likho-apt-lumma-stealer-attacks-on-russia/">Hackread</a>
     </td>
     <td>
