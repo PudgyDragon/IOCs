@@ -15,6 +15,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://therecord.media/volt-typhoon-hackers-utility-months">The Record</a>
+    </td>
+    <td>
+      <p>Volt Typhoon hackers were in Massachusetts utility’s systems for 10 months</p>
+    </td>
+    <td>
+      <p>March 12, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.tenable.com/blog/volt-typhoon-u-s-critical-infrastructure-targeted-by-state-sponsored-actors">Tenable</a>
     </td>
     <td>
