@@ -34,7 +34,40 @@
     <td>
       <p>March 12, 2025</p>
     </td>
-  </tr>  
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-300-critical-infrastructure-orgs/">BleepingComputer</a>
+    </td>
+    <td>
+      <p>CISA: Medusa ransomware hit over 300 critical infrastructure orgs</p>
+    </td>
+    <td>
+      <p>March 12, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.bleepingcomputer.com/news/security/medusa-ransomware-gang-picks-up-steam-as-it-targets-companies-worldwide/">BleepingComputer</a>
+    </td>
+    <td>
+      <p>Medusa ransomware gang picks up steam as it targets companies worldwide</p>
+    </td>
+    <td>
+      <p>March 12, 2023</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-posts-video-of-data-stolen-from-minneapolis-schools/">BleepingComputer</a>
+    </td>
+    <td>
+      <p>Ransomware gang posts video of data stolen from Minneapolis schools</p>
+    </td>
+    <td>
+      <p>March 8, 2023</p>
+    </td>
+  </tr>
 </table>
 
 
