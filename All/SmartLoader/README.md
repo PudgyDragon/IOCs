@@ -40,5 +40,7 @@
 
 
 ## Indicators
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/SmartLoader/samples.sha1">SHA1</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/SmartLoader/IPv4.txt">IPv4</a>
 
 ## Discovery
