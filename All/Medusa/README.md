@@ -40,6 +40,7 @@
 
 
 ## Indicators
-
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Medusa/samples.md5">MD5</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Medusa/emails.txt">Emails</a>
 
 ## Discovery
