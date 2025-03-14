@@ -1,4 +1,4 @@
-<h1></h1>
+<h1>Name</h1>
 
 <h2>About</h2>
 <table>
@@ -100,16 +100,24 @@
 
 
 <h2>Indicators</h2>
-<ul>
-  <li>
-    <a href=""></a>
-  </li>
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href=""></a>
+      </th>
+    </tr>
+  </thead>
+</table>
 
 
 <h2>Discovery</h2>
-<ul>
-  <li>
-    <a href=""></a>
-  </li>
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href=""></a>
+      </th>
+   </tr>
+  </thead>
+</table>
