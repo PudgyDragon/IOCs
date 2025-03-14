@@ -78,8 +78,9 @@
 
 
 ## Indicators
-- <a href=""></a>
-
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Nova%20Stealer/samples.md5">MD5</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Nova%20Stealer/samples.sha1">SHA1</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Nova%20Stealer/samples.sha256">SHA256</a>
 
 ## Discovery
 - <a href=""></a>
