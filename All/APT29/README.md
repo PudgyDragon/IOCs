@@ -32,6 +32,7 @@ Hash Values
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT29/samples.md5">MD5</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT29/samples.sha1">SHA1</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT29/samples.sha256">SHA256</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT29/IPv4.txt">IPv4</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/APT29/uri.txt">URI</a>
 
 ## Discovery
