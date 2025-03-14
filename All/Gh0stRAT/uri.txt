@@ -20,3 +20,5 @@ http://121.182.174.27:3000/server.exe
 http://154.218.7.16/s3.exe
 http://154.201.87.30:8888/svchot.exe
 http://182.92.99.95/kaijiorder/cert/41a1111.hta
+http://bbbitcoin.oss-cn-hongkong.aliyuncs.com/libcef.dll
+http://122.130.170.45/Ghst.exe
