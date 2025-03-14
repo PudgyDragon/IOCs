@@ -31,3 +31,6 @@ http://134.195.90.78:9090/90.exe
 http://89.197.154.116/CISCO.exe
 http://github.com/baksvoronov/testingflrplgpreg/raw/refs/heads/main/connector1.exe
 https://raw.githubusercontent.com/trafunny/malware-file/refs/heads/main/crack.exe
+http://84.247.147.214:8080/final.exe
+http://47.90.142.15:2333/123.exe
+https://140.238.122.17/payload.exe
