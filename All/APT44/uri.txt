@@ -1,0 +1,6 @@
+desktopapluscom.workers.dev
+desktopaplus.workers.dev
+armyplus-desktop.workers.dev
+aplusdesktop.workers.dev
+armylpus.workers.dev
+aplusmodgovua.workers.dev
