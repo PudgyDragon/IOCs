@@ -74,28 +74,22 @@
 
 <h2>Articles</h2>
 <table>
+  <thead>
   <tr>
-    <td>
-      <h3>Publisher</h3>
-    </td>
-    <td>
-      <h3>Title</h3>
-    </td>
-    <td>
-      <h3>Date</h3>
-    </td>
+    <th>Publisher</th>
+    <th>Title</th>
+    <th>Date</th>
   </tr>
-  <tr>
-    <td>
-      <a href=""></a>
-    </td>
-    <td>
-      <p></p>
-    </td>
-    <td>
-      <p></p>
-    </td>
-  </tr>
+  </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href=""></a>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
 </table>
 
 
