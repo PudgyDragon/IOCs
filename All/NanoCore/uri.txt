@@ -11,3 +11,8 @@ http://185.215.113.217/inc/Survox.exe
 http://185.215.113.217/inc/nano.exe
 https://winyardbuilding.nz/B/hjustvsv.txt
 https://winyardbuilding.nz/B/hjustvsv.txt
+https://raw.githubusercontent.com/hadesv2/windriver/master/windriver.exe
+https://raw.githubusercontent.com/topg6565767677/discord/refs/heads/main/discord.exe
+https://raw.githubusercontent.com/hadesv2/windriver/master/windriver.exe
+https://github.com/topg6565767677/discord/raw/refs/heads/main/discord.exe
+https://github.com/zoax33/Utils/blob/master/savedecrypter.exe
