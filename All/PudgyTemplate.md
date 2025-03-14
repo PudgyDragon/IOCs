@@ -36,6 +36,34 @@
   </tr>
 </table>
 
+## About
+<table>
+  <tr>
+    <td>
+      <p>Platform</p>
+    </td>
+    <td>
+      <p></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Type</p>
+    </td>
+    <td>
+      <p></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Origin</p>
+    </td>
+    <td>
+      <p></p>
+    </td>
+  </tr>
+</table>
+
 ## Articles
 <table>
   <tr>
