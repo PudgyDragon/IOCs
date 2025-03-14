@@ -2,3 +2,4 @@ https://api.telegram.org/bot7479124552:AAELHYVLYxHEQdxzK-H17KRix-YKXifzKCI/
 http://51.38.247.67:8081/_send_.php
 uniform.gr
 http://87.120.84.39/txt/EN7nq8lm3v7yww0.doc
+mail.damaz.it
