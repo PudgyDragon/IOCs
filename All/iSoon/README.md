@@ -15,7 +15,7 @@
       <p>Target Sectors</p>
     </td>
     <td>
-      <p></p>
+      <p>NGOs, Think Tanks</p>
     </td>
   </tr>
   <tr>
@@ -47,6 +47,13 @@
   </tr>
   </thead>
     <tbody>
+      <tr>
+        <td>
+          <a href="https://www.darkreading.com/cyberattacks-data-breaches/chinese-espionage-hacker-group-isoon-apt-operation">DarkReading</a>
+        </td>
+        <td>Chinese Hacker Group Tracked Back to iSoon APT Operation</td>
+        <td>March 24, 2025</td>
+      </tr>
       <tr>
         <td>
           <a href="https://www.welivesecurity.com/en/eset-research/operation-fishmedley/">welivesecurity</a>
