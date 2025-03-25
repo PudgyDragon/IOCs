@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>
-          <a href="https://www.welivesecurity.com/en/eset-research/operation-fishmedley/">welivesecurity</a>
+          <a href="https://www.welivesecurity.com/en/eset-research/operation-fishmedley/">ESET</a>
         </td>
         <td>Operation FishMedley</td>
         <td>March 20, 2025</td>
