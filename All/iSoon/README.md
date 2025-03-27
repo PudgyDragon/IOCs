@@ -94,7 +94,7 @@
         <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/iSoon/uri.txt">IPv4</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/iSoon/IPs.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/iSoon/IPv4.txt">URI</a>
       </th>
     </tr>
   </thead>
