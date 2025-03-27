@@ -15,6 +15,28 @@
   </tr>
   <tr>
     <td>
+      <a href="https://izoologic.com/financial-malware/lummastealer-campaign-expands-using-fake-booking-sites/">iZOOlogic</a>
+    </td>
+    <td>
+      <p>LummaStealer campaign expands using fake booking sites</p>
+    </td>
+    <td>
+      <p>March 26, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://izoologic.com/financial-malware/hackers-use-fake-captcha-to-deploy-lummac2-stealer/">iZOOLogic</a>
+    </td>
+    <td>
+      <p>Hackers use fake Captcha to deploy LummaC2 Stealer</p>
+    </td>
+    <td>
+      <p>March 22, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.trendmicro.com/en_us/research/25/c/ai-assisted-fake-github-repositories.html">Trend Micro</a>
     </td>
     <td>
@@ -44,6 +66,17 @@
     </td>
     <td>
       <p>February 26, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://izoologic.com/financial-malware/__trashed/">iZOOlogic</a>
+    </td>
+    <td>
+      <p>Crypto tools and game mods spread the Lumma Stealer malware</p>
+    </td>
+    <td>
+      <p>February 25, 2025</p>
     </td>
   </tr>
   <tr>
