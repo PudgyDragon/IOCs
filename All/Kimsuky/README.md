@@ -16,6 +16,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://izoologic.com/hacking/kimsukys-new-campaign-uses-rdp-wrapper-for-remote-access/">iZOOlogic</a>
+    </td>
+    <td>
+      <p>Kimsuky’s new campaign uses RDP Wrapper for remote access</p>
+    </td>
+    <td>
+      <p>March 4, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://thehackernews.com/2024/12/north-korean-kimsuky-hackers-use.html">The Hacker News</a>
     </td>
     <td>
