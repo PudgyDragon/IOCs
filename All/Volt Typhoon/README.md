@@ -15,6 +15,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://www.cyfirma.com/research/apt-profile-volt-typhoon-2/">Cyfirma</a>
+    </td>
+    <td>
+      <p>APT Profile - Volt Typhoon</p>
+    </td>
+    <td>
+      <p>March 14, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://therecord.media/volt-typhoon-hackers-utility-months">The Record</a>
     </td>
     <td>
