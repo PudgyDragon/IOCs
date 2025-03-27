@@ -3,3 +3,10 @@ http://51.38.247.67:8081/_send_.php
 uniform.gr
 http://87.120.84.39/txt/EN7nq8lm3v7yww0.doc
 mail.damaz.it
+fayedsecurity.com
+https://api.telegram.org/bot7933970075:AAH-phqF2Nqha9N-SqH71iAqVTOYva6GRpE
+https://api.telegram.org/bot8160064485:AAHqwtfHvr9e-gOVcWwSnj0HzqK5A4SBIwE
+https://drive.google.com/uc?export=download&id=1VDKRd-c17oS52zp028IfAVUC5WknOEF-
+https://api.telegram.org/bot7869489618:AAHN5xZzcFLHOzYCX49Sa8fwJ0Zb2PusB48s
+https://api.telegram.org/bot7354418955:AAH10FAR8IByRBtd_Qs69uwN7lnhl-2X18k/sendDocument?chat_id=6851554211
+mail.bteenerji.com
