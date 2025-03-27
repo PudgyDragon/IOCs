@@ -7,7 +7,7 @@
       <p>Associated Groups</p>
     </td>
     <td>
-      <p>Salt Typhoon</p>
+      <p>Salt Typhoon, GhostEmperor, UNC2286</p>
     </td>
   </tr>
   <tr>
@@ -23,7 +23,7 @@
       <p>Associated Malware</p>
     </td>
     <td>
-      <p>SNAPPYBEE, DEMODEX, GHOSTSPIDER</p>
+      <p>SNAPPYBEE, DEMODEX, GHOSTSPIDER, JumbledPath</p>
     </td>
   </tr>
   <tr>
@@ -62,6 +62,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://izoologic.com/industry/telecommunications/us-telco-targeted-by-chinese-hackers-with-custom-malware/">iZOOlogic</a>
+    </td>
+    <td>
+      <p>US telco targeted by Chinese hackers with custom malware</p>
+    </td>
+    <td>
+      <p>February 24, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://blog.talosintelligence.com/salt-typhoon-analysis/">Cisco Talos</a>
     </td>
     <td>
@@ -69,6 +80,17 @@
     </td>
     <td>
       <p>February 20, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://izoologic.com/industry/telecommunications/hackers-exploit-cisco-devices-to-breach-telecom-networks/">iZOOlogic</a>
+    </td>
+    <td>
+      <p>Hackers exploit Cisco devices to breach telecom networks</p>
+    </td>
+    <td>
+      <p>February 17, 2025</p>
     </td>
   </tr>
   <tr>
