@@ -1,3 +1,2 @@
 office4gold.duckdns.org
-38.170.237.12:7000
-185.147.124.40:4404
+weidmachane.zapto.org
