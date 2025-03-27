@@ -56,7 +56,7 @@ Hash Values
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Kimsuky/samples.sha256">SHA256</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Kimsuky/samples.sha512">SHA512</a>
 - <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Kimsuky/uri.txt">URI</a>
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Kimsuky/IPs.txt">IP</a>
+- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Kimsuky/IPv4.txt">IP</a>
 
 ## Discovery
 Rules
