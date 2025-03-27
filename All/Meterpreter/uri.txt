@@ -34,3 +34,7 @@ https://raw.githubusercontent.com/trafunny/malware-file/refs/heads/main/crack.ex
 http://84.247.147.214:8080/final.exe
 http://47.90.142.15:2333/123.exe
 https://140.238.122.17/payload.exe
+http://89.197.154.116/Debug.exe
+http://84.10.33.245/shellcode.bin
+http://142.11.229.180/nc.exe
+http://192.64.83.210/service.exe
