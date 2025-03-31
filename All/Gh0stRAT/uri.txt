@@ -25,3 +25,5 @@ http://122.130.170.45/Ghst.exe
 http://154.82.84.114:6635/38.91.115.206.dll
 https://googlleaszxds.nyc3.cdn.digitaloceanspaces.com/Gogles-suter-x64.zip
 https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728896464326/4.txt
+http://192.252.181.40:1356/23.248.217.196.dll
+http://192.252.181.40:1356/23.248.217.138.dll
