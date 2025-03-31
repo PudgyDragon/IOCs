@@ -543,3 +543,5 @@ http://176.65.144.3/dev/DONORIGIN.exe
 http://176.65.144.3/dev/DEV.exe
 http://eficienciaeningenieria.com.mx/ngbee/ngqabn.exe
 mail.xma0.com
+http://104.245.241.248/tsjghdiaghdtyZYUSw2hsulpdgwxuo.exe
+https://pub-6f7fb0d0ae0f40fbad68520fce393d92.r2.dev/223.txt
