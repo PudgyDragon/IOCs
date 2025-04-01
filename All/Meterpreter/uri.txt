@@ -39,3 +39,5 @@ http://84.10.33.245/shellcode.bin
 http://142.11.229.180/nc.exe
 http://192.64.83.210/service.exe
 http://178.20.41.29:10101/msf.apk
+http://164.92.154.140/pc.exe
+http://164.92.154.140/shellcode.exe
