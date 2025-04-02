@@ -48,6 +48,13 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://socprime.com/blog/gamaredon-campaign-detection/">SOC Prime</a>
+      </td>
+      <td>Gamaredon Campaign Detection: russia-backed APT Group Targets Ukraine Using LNK Files to Spread Remcos Backdoor</td>
+      <td>April 1, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://blog.talosintelligence.com/gamaredon-campaign-distribute-remcos/">Cisco Talos</a>
       </td>
       <td>Gamaredon campaign abuses LNK files to distribute Remcos backdoor</td>
