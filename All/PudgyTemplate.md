@@ -75,21 +75,21 @@
 <h2>Articles</h2>
 <table>
   <thead>
-  <tr>
-    <th>Publisher</th>
-    <th>Title</th>
-    <th>Date</th>
-  </tr>
+    <tr>
+      <th>Publisher</th>
+      <th>Title</th>
+      <th>Date</th>
+    </tr>
   </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href=""></a>
-        </td>
-        <td></td>
-        <td></td>
-      </tr>
-    </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href=""></a>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
 
