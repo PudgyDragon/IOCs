@@ -71,6 +71,9 @@
       <th>
         <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/EvilGnome/samples.md5">MD5</a>
       </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/EvilGnome/samples.sha256">SHA256</a>
+      </th>
     </tr>
   </thead>
 </table>
