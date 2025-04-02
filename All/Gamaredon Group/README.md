@@ -23,7 +23,7 @@
       <p>Associated Malware</p>
     </td>
     <td>
-      <p></p>
+      <p>Pterodo, EvilGnome</p>
     </td>
   </tr>
   <tr>
@@ -83,6 +83,55 @@
     </tr>
     <tr>
       <td>
+        <a href="https://socprime.com/blog/uac-0010-aka-armageddon-apt-attacks-detection-overview-of-groups-ongoing-offensive-operations-targeting-ukraine/">SOC Prime</a>
+      </td>
+      <td>UAC-0010 aka Armageddon APT Attacks Detection: Overview of Group’s Ongoing Offensive Operations Targeting Ukraine</td>
+      <td>July 17, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://socprime.com/blog/armageddon-apt-aka-uac-0010-uses-gammaload-and-gammasteel-malware-in-targeted-cyber-attacks-on-ukraine/">SOC Prime</a>
+      </td>
+      <td>Armageddon APT aka UAC-0010 Uses GammaLoad and GammaSteel Malware in Targeted Cyber-Attacks on Ukraine</td>
+      <td>August 12, 2022</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cert.gov.ua/article/1229152">CERT-UA</a>
+      </td>
+      <td>Cyberattacks by the UAC-0010 (Armageddon) group: GammaLoad, GammaSteel malware (CERT-UA#5134)</td>
+      <td>August 10, 2022</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.elastic.co/security-labs/playing-defense-against-gamaredon-group">elastic</a>
+      </td>
+      <td>Playing defense against Gamaredon Group</td>
+      <td>June 20, 2022</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://socprime.com/blog/armageddon-cyber-espionage-group-tracked-as-uac-0010-attacks-eu-and-ukrainian-government-entities/">SOC Prime</a>
+      </td>
+      <td>Armageddon Cyber Espionage Group Tracked As UAC-0010 Attacks EU and Ukrainian Government Entities</td>
+      <td>April 6, 2022</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cert.gov.ua/article/39138">CERT-UA</a>
+      </td>
+      <td>Cyberattack by the UAC-0010 (Armageddon) group on Ukrainian state organizations (CERT-UA#4378)</td>
+      <td>April 4, 2022</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://unit42.paloaltonetworks.com/gamaredon-primitive-bear-ukraine-update-2021/">Unit 42</a>
+      </td>
+      <td>Russia’s Gamaredon aka Primitive Bear APT Group Actively Targeting Ukraine</td>
+      <td>February 3, 2022</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.security.com/threat-intelligence/shuckworm-gamaredon-espionage-ukraine">Symantec</a>
       </td>
       <td>Shuckworm Continues Cyber-Espionage Attacks Against Ukraine</td>
@@ -90,10 +139,66 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.bleepingcomputer.com/news/security/ukraine-links-members-of-gamaredon-hacker-group-to-russian-fsb/">BleepingComputer</a>
+      </td>
+      <td>Ukraine links members of Gamaredon hacker group to Russian FSB</td>
+      <td>November 4, 2021</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://socprime.com/blog/threat-hunting-rules-gamaredon-group-behavior/">SOC Prime</a>
+      </td>
+      <td>Threat Hunting Rules: Gamaredon Group Behavior</td>
+      <td>August 17, 2020</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.welivesecurity.com/2020/06/11/gamaredon-group-grows-its-game/">ESET</a>
+      </td>
+      <td>Gamaredon group grows its game</td>
+      <td>June 11, 2020</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.trendmicro.com/ja_jp/research/20/c/first-observed-attack-on-Japan-from-the-targeted-attack-group-Gamaredon.html">Trend Micro</a>
+      </td>
+      <td>First observation of attacks on Japan by targeted attack group "Gamaredon"</td>
+      <td>March 30, 2020</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.sentinelone.com/labs/pro-russian-cyberspy-gamaredon-intensifies-ukrainian-security-targeting/">SentinelLABS</a>
+      </td>
+      <td>Pro-Russian CyberSpy Gamaredon Intensifies Ukrainian Security Targeting</td>
+      <td>February 5, 2020</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.anomali.com/blog/malicious-activity-aligning-with-gamaredon-ttps-targets-ukraine">Anomali</a>
+      </td>
+      <td>Malicious Activity Aligning with Gamaredon TTPs Targets Ukraine</td>
+      <td>December 5, 2019</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.fortinet.com/blog/threat-research/gamaredon-group-ttp-profile-analysis">Fortinet</a>
+      </td>
+      <td>The Gamaredon Group: A TTP Profile Analysis</td>
+      <td>August 21, 2019</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://attack.mitre.org/groups/G0047/">MITRE</a>
       </td>
       <td>Gamaredon Group</td>
       <td>May 31, 2017</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://unit42.paloaltonetworks.com/unit-42-title-gamaredon-group-toolset-evolution/">Unit 42</a>
+      </td>
+      <td>The Gamaredon Group Toolset Evolution</td>
+      <td>February 27, 2017</td>
     </tr>
   </tbody>
 </table>
