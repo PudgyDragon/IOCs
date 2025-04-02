@@ -51,6 +51,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://www.greynoise.io/blog/active-exploitation-silk-typhoon-linked-cves">GreyNoise</a>
+    </td>
+    <td>
+      <p>GreyNoise Detects Active Exploitation of Silk Typhoon-Linked CVEs</p>
+    </td>
+    <td>
+      <p>March 6, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.microsoft.com/en-us/security/blog/2025/03/05/silk-typhoon-targeting-it-supply-chain/">Microsoft Security</a>
     </td>
     <td>
