@@ -51,6 +51,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://eclypsium.com/blog/silk-typhoon/">Eclypsium</a>
+    </td>
+    <td>
+      <p>Silk Typhoon Targeting IT Supply Chains and Network Devices, Microsoft Reports</p>
+    </td>
+    <td>
+      <p>March 13, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.greynoise.io/blog/active-exploitation-silk-typhoon-linked-cves">GreyNoise</a>
     </td>
     <td>
