@@ -139,6 +139,20 @@
     </tr>
     <tr>
       <td>
+        <a href="https://therecord.media/ukraine-discloses-identity-of-gamaredon-members-links-it-to-russias-fsb">The Record</a>
+      </td>
+      <td>Ukraine discloses identity of Gamaredon members, links it to Russia's FSB</td>
+      <td>November 3, 2021</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://ssu.gov.ua/uploads/files/DKIB/Technical%20report%20Armagedon.pdf">SSU</a>
+      </td>
+      <td>Gamaredon/Armageddon Group</td>
+      <td>2021</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.bleepingcomputer.com/news/security/ukraine-links-members-of-gamaredon-hacker-group-to-russian-fsb/">BleepingComputer</a>
       </td>
       <td>Ukraine links members of Gamaredon hacker group to Russian FSB</td>
