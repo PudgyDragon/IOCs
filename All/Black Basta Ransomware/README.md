@@ -81,6 +81,17 @@
   </tr>
   <tr>
     <td>
+      <a href="https://www.greynoise.io/storm-watch-episodes/cybersecurity-under-fire-mic-leadership-edge-device-threats-and-black-basta-secrets">GreyNoise</a>
+    </td>
+    <td>
+      <p>Cybersecurity Under Fire: MiC Leadership, Edge Device Threats, and Black Basta Secrets</p>
+    </td>
+    <td>
+      <p>February 25, 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://www.techtarget.com/searchsecurity/news/366619641/Black-Basta-ransomware-leak-sheds-light-on-targets-tactics">TechTarget</a>
     </td>
     <td>
