@@ -1,84 +1,98 @@
-# Agent Tesla
+<h1>Agent Tesla</h1>
 
-## Articles
+<h2>About</h2>
 <table>
   <tr>
     <td>
-      <h3>Publisher</h3>
+      <p>Platform</p>
     </td>
     <td>
-      <h3>Title</h3>
-    </td>
-    <td>
-      <h3>Last Revised</h3>
+      <p></p>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://attack.mitre.org/software/S0331/">MITRE</a>
+      <p>Type</p>
     </td>
     <td>
-      <p>Agent Tesla</p>
-    </td>
-    <td>
-      <p>September 11, 2023</p>
+      <p></p>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.blackberry.com/us/en/solutions/endpoint-security/ransomware-protection/agent-tesla">BlackBerry</a>
+      <p>Origin</p>
     </td>
     <td>
-      <p>Agent Tesla Malware</p>
+      <p></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Source</p>
     </td>
     <td>
-      <p>2024</p>
+      <a href=""></a>
     </td>
   </tr>
 </table>
 
 
-## Indicators
+<h2>Articles</h2>
 <table>
-  <tr>
-    <td width="33.3%">
-      <h3>Hash Values</h3>
-    </td>
-    <td width="33.3%">
-      <h3>IP Addresses</h3>
-    </td>
-    <td width="33.3%">
-      <h3>URI/Domains</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="33.3%">
-      <li><a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/samples.md5">MD5</a></li>
-      <li><a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/samples.sha1">SHA1</a></li>
-      <li><a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/samples.sha256">SHA256</a></li>
-      <li><a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/samples.sha384">SHA384</a></li>
-    </td>
-    <td width="33.3%">
-      <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/IPs.txt">IP</a>
-    </td>
-    <td width="33.3%">
-      <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/uri.txt">URI</a>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Publisher</th>
+      <th>Title</th>
+      <th>Last Revised</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://attack.mitre.org/software/S0331/">MITRE</a>
+      </td>
+      <td>Agent Tesla</td>
+      <td>September 11, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.blackberry.com/us/en/solutions/endpoint-security/ransomware-protection/agent-tesla">BlackBerry</a>
+      </td>
+      <td>Agent Tesla Malware</td>
+      <td>2024</td>
+    </tr>
+  </tbody>
 </table>
 
-## Discovery
+<h2>Indicators</h2>
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/samples.md5">MD5</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/samples.sha1">SHA1</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/samples.sha256">SHA256</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/samples.sha384">SHA384</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/IPs.txt">IPV4</a>
+      </th>
+      <th>
+        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/uri.txt">URI</a>
+      </th>
+    </tr>
+  </thead>
+</table>
 
-<!--<table>
-  <tr>
-    <td width="33.3%">
-      <a href=""><img src="https://upload.wikimedia.org/wikipedia/en/3/3a/Snort_ids_logo.png" width="100%"></a>
-    </td>
-    <td width="33.3%">
-      <a href=""><img src="https://countuponsecurity.com/wp-content/uploads/2016/03/yara-logo.jpg"></a>
-    </td>
-    <td width="33.3%">
-      <a href=""><img src="https://kravensecurity.com/wp-content/uploads/2023/11/sigma-logo-1.png"></a>
-    </td>
-  </tr>
-</table>-->
+
+<h2>Discovery</h2>
+
+
+
+
