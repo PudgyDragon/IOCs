@@ -43,7 +43,7 @@
     <tr>
       <th>Publisher</th>
       <th>Title</th>
-      <th>Last Revised</th>
+      <th>Date</th>
     </tr>
   </thead>
   <tbody>
