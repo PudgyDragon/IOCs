@@ -69,22 +69,22 @@
   <thead>
     <tr>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/samples.md5">MD5</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Agent%20Tesla/samples.md5">MD5</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/samples.sha1">SHA1</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Agent%20Tesla/samples.sha1">SHA1</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/samples.sha256">SHA256</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Agent%20Tesla/samples.sha256">SHA256</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/samples.sha384">SHA384</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Agent%20Tesla/samples.sha384">SHA384</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/IPs.txt">IPV4</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Agent%20Tesla/IPv4.txt">IPV4</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Agent%20Tesla/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Agent%20Tesla/uri.txt">URI</a>
       </th>
     </tr>
   </thead>
