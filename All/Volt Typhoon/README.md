@@ -48,6 +48,13 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://dale-peterson.com/2025/04/07/volt-typhoon-is-a-fait-accompli-in-cyber-persistence-theory/">Dale Peterson</a>
+      </td>
+      <td>Volt Typhoon Is A Fait Accompli In Cyber Persistence Theory</td>
+      <td>April 7, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.cyfirma.com/research/apt-profile-volt-typhoon-2/">Cyfirma</a>
       </td>
       <td>APT Profile - Volt Typhoon</td>
@@ -59,6 +66,13 @@
       </td>
       <td>Volt Typhoon hackers were in Massachusetts utility’s systems for 10 months</td>
       <td>March 12, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://warontherocks.com/2025/02/a-tale-of-two-typhoons-properly-diagnosing-chinese-cyber-threats/">War on the Rocks</a>
+      </td>
+      <td>A Tale of Two Typhoons: Properly Diagnosing Chinese Cyber Threats</td>
+      <td>February 25, 2025</td>
     </tr>
     <tr>
       <td>
