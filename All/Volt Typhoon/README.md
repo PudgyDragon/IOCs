@@ -138,22 +138,22 @@
   <thead>
     <tr>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Volt%20Typhoon/samples.md5">MD5</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Volt%20Typhoon/samples.md5">MD5</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Volt%20Typhoon/samples.sha1">SHA1</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Volt%20Typhoon/samples.sha1">SHA1</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Volt%20Typhoon/samples.sha256">SHA256</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Volt%20Typhoon/samples.sha256">SHA256</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Volt%20Typhoon/samples.sha512">SHA512</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Volt%20Typhoon/samples.sha512">SHA512</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Volt%20Typhoon/IPs.txt">IPv4</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Volt%20Typhoon/IPs.txt">IPv4</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Volt%20Typhoon/uri.txt">URI</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Volt%20Typhoon/uri.txt">URI</a>
       </th>
     </tr>
   </thead>
@@ -165,7 +165,7 @@
   <thead>
     <tr>
       <th>
-        <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Volt%20Typhoon/KQL.txt">KQL</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Volt%20Typhoon/KQL.txt">KQL</a>
       </th>
    </tr>
   </thead>
