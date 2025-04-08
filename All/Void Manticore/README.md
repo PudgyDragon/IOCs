@@ -1,7 +1,6 @@
+<h1>Void Manticore</h1>
 
-# Void Manticore
-
-## About
+<h2>About</h2>
 <table>
   <tr>
     <td>
@@ -37,70 +36,60 @@
   </tr>
 </table>
 
-## Articles
+<h2>Articles</h2>
 <table>
-  <tr>
-    <td>
-      <h3>Publisher</h3>
-    </td>
-    <td>
-      <h3>Title</h3>
-    </td>
-    <td>
-      <h3>Last Revised</h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://research.checkpoint.com/2024/bad-karma-no-justice-void-manticore-destructive-activities-in-israel/">Check Point Research</a>
-    </td>
-    <td>
-      <p>Bad Karma, No Justice: Void Manticore Destructive Activities in Israel</p>
-    </td>
-    <td>
-      <p>May 20, 2024</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.securityjoes.com/post/mission-data-destruction-a-large-scale-data-wiping-campaign-targeting-israel">Security Joes</a>
-    </td>
-    <td>
-      <p>Mission "Data Destruction": A Large-scale Data-Wiping Campaign Targeting Israel</p>
-    </td>
-    <td>
-      <p>November 11, 2023</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-264a">CISA</a>
-    </td>
-    <td>
-      <p>Iranian State Actors Conduct Cyber Operations Against the Government of Albania</p>
-    </td>
-    <td>
-      <p>September 23, 2022</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.microsoft.com/en-us/security/blog/2022/09/08/microsoft-investigates-iranian-attacks-against-the-albanian-government/">Microsoft Threat Intelligence</a>
-    </td>
-    <td>
-      <p>Microsoft investigates Iranian attacks against the Albanian government</p>
-    </td>
-    <td>
-      <p>September 8, 2022</p>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Publisher</th>
+      <th>Title</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://research.checkpoint.com/2024/bad-karma-no-justice-void-manticore-destructive-activities-in-israel/">Check Point Research</a>
+      </td>
+      <td>Bad Karma, No Justice: Void Manticore Destructive Activities in Israel</td>
+      <td>May 20, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.securityjoes.com/post/mission-data-destruction-a-large-scale-data-wiping-campaign-targeting-israel">Security Joes</a>
+      </td>
+      <td>Mission "Data Destruction": A Large-scale Data-Wiping Campaign Targeting Israel</td>
+      <td>November 11, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-264a">CISA</a>
+      </td>
+      <td>Iranian State Actors Conduct Cyber Operations Against the Government of Albania</td>
+      <td>September 23, 2022</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.microsoft.com/en-us/security/blog/2022/09/08/microsoft-investigates-iranian-attacks-against-the-albanian-government/">Microsoft Threat Intelligence</a>
+      </td>
+      <td>Microsoft investigates Iranian attacks against the Albanian government</td>
+      <td>September 8, 2022</td>
+    </tr>
+  </tbody>
 </table>
 
 
+<h2>Indicators</h2>
+<table>
+  <thead>
+    <tr>
+      <th>
+       <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Void%20Manticore/samples.md5">MD5</a>
+      </th>
+    </tr>
+  </thead>
+</table>
 
-## Indicators
-- <a href="https://github.com/PudgyDragon/IOCs/blob/main/All/Void%20Manticore/samples.md5">MD5</a>
+
+<h2>Discovery</h2>
 
 
-## Discovery
-Rules
