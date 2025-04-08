@@ -1,8 +1,0 @@
-https://api.telegram.org/bot7222288618:AAHmjWFpZ08g76_6xr4NgmiN7PynC_nQC7Y
-https://api.telegram.org/bot7265039693:AAEgBQWh2zD6Y0qjiHnF71BlD3yWIMzprMM
-https://api.telegram.org/bot7433326395:AAEyKso3EDkIemNYWGoMIIf0Bpa-1gWySag
-https://api.telegram.org/bot7222288618:AAHmjWFpZ08g76_6xr4NgmiN7PynC_nQC7Y/sendMessage
-http://varders.kozow.com:8081
-http://aborters.duckdns.org:8081
-http://anotherarmy.dns.army:8081
-http://51.38.247.67:8081/_send_.php?L
