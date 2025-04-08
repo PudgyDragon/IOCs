@@ -10,3 +10,11 @@ https://drive.google.com/uc?export=download&id=1VDKRd-c17oS52zp028IfAVUC5WknOEF-
 https://api.telegram.org/bot7869489618:AAHN5xZzcFLHOzYCX49Sa8fwJ0Zb2PusB48s
 https://api.telegram.org/bot7354418955:AAH10FAR8IByRBtd_Qs69uwN7lnhl-2X18k/sendDocument?chat_id=6851554211
 mail.bteenerji.com
+https://api.telegram.org/bot7222288618:AAHmjWFpZ08g76_6xr4NgmiN7PynC_nQC7Y
+https://api.telegram.org/bot7265039693:AAEgBQWh2zD6Y0qjiHnF71BlD3yWIMzprMM
+https://api.telegram.org/bot7433326395:AAEyKso3EDkIemNYWGoMIIf0Bpa-1gWySag
+https://api.telegram.org/bot7222288618:AAHmjWFpZ08g76_6xr4NgmiN7PynC_nQC7Y/sendMessage
+http://varders.kozow.com:8081
+http://aborters.duckdns.org:8081
+http://anotherarmy.dns.army:8081
+http://51.38.247.67:8081/_send_.php?L
