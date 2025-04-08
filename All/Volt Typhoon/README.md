@@ -150,7 +150,7 @@
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Volt%20Typhoon/samples.sha512">SHA512</a>
       </th>
       <th>
-        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Volt%20Typhoon/IPs.txt">IPv4</a>
+        <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Volt%20Typhoon/IPv4.txt">IPv4</a>
       </th>
       <th>
         <a href="https://github.com/PudgyDragon/Threat-Intel/blob/main/All/Volt%20Typhoon/uri.txt">URI</a>
