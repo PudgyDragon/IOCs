@@ -90,6 +90,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.trellix.com/blogs/research/akira-ransomware/">Trellix</a>
+      </td>
+      <td>Akira Ransomware</td>
+      <td>November 29, 2023</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.fortinet.com/blog/threat-research/ransomware-roundup-akira">Fortinet</a>
       </td>
       <td>FortiGuard Labs Threat Research Ransomware Roundup - Akira</td>
