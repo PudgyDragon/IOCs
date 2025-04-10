@@ -48,6 +48,13 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://www.ransomware.live/group/akira?id=posts#">Ransomware.live
+      </td>
+      <td>Ransomware Group: Akira</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.bleepingcomputer.com/news/security/gpu-powered-akira-ransomware-decryptor-released-on-github/">BleepingComputer</a>
       </td>
       <td>New Akira ransomware decryptor cracks encryptions keys using GPUs</td>
