@@ -23,7 +23,7 @@
       <p>Origin</p>
     </td>
     <td>
-      <p></p>
+      <p>Russia</p>
     </td>
   </tr>
   <tr>
@@ -69,10 +69,45 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.bitdefender.com/en-us/blog/businessinsights/akira-ransomware-a-shifting-force-in-the-raas-domain">Bitdefender</a>
+      </td>
+      <td>Akira Ransomware: A Shifting Force in the RaaS Domain</td>
+      <td>January 23, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.scworld.com/news/akira-ransomware-pivots-back-to-double-extortion-c-code">SC Media</a>
+      </td>
+      <td>Akira ransomware pivots back to double extortion, C++ code</td>
+      <td>October 22, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://blog.talosintelligence.com/akira-ransomware-continues-to-evolve/">Cisco Talos</a>
+      </td>
+      <td>Akira ransomware continues to evolve</td>
+      <td>October 21, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.s-rminform.com/latest-thinking/ransomware-in-focus-meet-akira">S-RM</a>
+      </td>
+      <td>Ransomware in focus: Meet Akira</td>
+      <td>October 8, 2024</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://blog.qualys.com/vulnerabilities-threat-research/2024/10/02/threat-brief-understanding-akira-ransomware">Qualys</a>
       </td>
       <td>Threat Brief: Understanding Akira Ransomware</td>
       <td>October 2, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.scworld.com/news/akira-takes-in-42-million-in-ransom-payments-now-targets-linux-servers">SC Media</a>
+      </td>
+      <td>Akira takes in $42 million in ransom payments, now targets Linux servers</td>
+      <td>April 19, 2024</td>
     </tr>
     <tr>
       <td>
@@ -115,6 +150,13 @@
       </td>
       <td>Emerging Threat: Akira, Not a CyberPunk Movie – A Very Real Ransomware Threat</td>
       <td>September 20th, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.darktrace.com/blog/akira-ransomware-how-darktrace-foiled-another-novel-ransomware-attack">DarkTrace</a>
+      </td>
+      <td>How Darktrace Stopped Akira Ransomware</td>
+      <td>September 13, 2023</td>
     </tr>
     <tr>
       <td>
