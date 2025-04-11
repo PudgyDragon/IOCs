@@ -1,4 +1,4 @@
-<h1>Lazarus</h1>
+<h1>Lazarus Group</h1>
 
 <h2>About</h2>
 <table>
@@ -47,6 +47,9 @@
   </thead>
   <tbody>
     <tr>
+      <td colspan="100" align="center">2025</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://www.aikido.dev/blog/malware-hiding-in-plain-sight-spying-on-north-korean-hackers">Aikido</a>
       </td>
@@ -59,6 +62,20 @@
       </td>
       <td>From Contagious to ClickFake Interview: Lazarus leveraging the ClickFix tactic</td>
       <td>March 31 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cyberscoop.com/lazarus-group-north-korea-malicious-npm-packages-socket/">Cyberscoop</a>
+      </td>
+      <td>Lazarus Group deceives developers with 6 new malicious npm packages</td>
+      <td>March 12, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.bbc.com/reel/video/p0kx9xkf/how-the-largest-heist-in-crypto-history-happened">BBC</a>
+      </td>
+      <td>How the largest heist in crypto history happened</td>
+      <td>March 10, 2025</td>
     </tr>
     <tr>
       <td>
@@ -152,6 +169,9 @@
       <td>January 14, 2025</td>
     </tr>
     <tr>
+      <td colspan="100" align="center">2024</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://www.group-ib.com/blog/stealthy-attributes-of-apt-lazarus/">Group-IB</a>
       </td>
@@ -173,6 +193,9 @@
       <td>September 4, 2024</td>
     </tr>
     <tr>
+      <td colspan="100" align="center">2023</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://www.fbi.gov/news/press-releases/fbi-identifies-lazarus-group-cyber-actors-as-responsible-for-theft-of-41-million-from-stakecom">FBI</a>
       </td>
@@ -185,6 +208,9 @@
       </td>
       <td>FBI Confirms Lazarus Group Cyber Actors Responsible for Harmony's Horizon Bridge Currency Theft</td>
       <td>January 23, 2023</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2022</td>
     </tr>
     <tr>
       <td>
@@ -222,11 +248,17 @@
       <td>April 14, 2022</td>
     </tr>
     <tr>
+      <td colspan="100" align="center">2018</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/a-look-into-the-lazarus-groups-operations">Trend Micro</a>
       </td>
       <td>A Look into the Lazarus Group’s Operations</td>
       <td>January 25, 2018</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2014</td>
     </tr>
     <tr>
       <td>
