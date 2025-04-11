@@ -7,7 +7,7 @@
       <p>Associated Groups</p>
     </td>
     <td>
-      <p></p>
+      <p>Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Diamond Sleet</p>
     </td>
   </tr>
   <tr>
@@ -31,7 +31,7 @@
       <p>Suspected Attribution</p>
     </td>
     <td>
-      <p></p>
+      <p>North Korea</p>
     </td>
   </tr>
 </table>
@@ -48,10 +48,24 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://www.aikido.dev/blog/malware-hiding-in-plain-sight-spying-on-north-korean-hackers">Aikido</a>
+      </td>
+      <td>Malware hiding in plain sight: Spying on North Korean Hackers</td>
+      <td>March 31, 2025</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://blog.sekoia.io/clickfake-interview-campaign-by-lazarus/">Sekoia</a>
       </td>
       <td>From Contagious to ClickFake Interview: Lazarus leveraging the ClickFix tactic</td>
       <td>March 31 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.bbc.com/news/articles/c2kgndwwd7lo">BBC</a>
+      </td>
+      <td>North Korean hackers cash out hundreds of millions from $1.5bn ByBit hack</td>
+      <td>March 9, 2025</td>
     </tr>
     <tr>
       <td>
@@ -160,6 +174,34 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.fbi.gov/news/press-releases/fbi-identifies-lazarus-group-cyber-actors-as-responsible-for-theft-of-41-million-from-stakecom">FBI</a>
+      </td>
+      <td>FBI Identifies Lazarus Group Cyber Actors as Responsible for Theft of $41 Million from Stake.com</td>
+      <td>September 6, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.fbi.gov/news/press-releases/fbi-confirms-lazarus-group-cyber-actors-responsible-for-harmonys-horizon-bridge-currency-theft">FBI</a>
+      </td>
+      <td>FBI Confirms Lazarus Group Cyber Actors Responsible for Harmony's Horizon Bridge Currency Theft</td>
+      <td>January 23, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.nccgroup.com/us/the-lazarus-group-north-korean-scourge-for-plus10-years/">NCC Group</a>
+      </td>
+      <td>The Lazarus group: North Korean scourge for +10 years</td>
+      <td>June 30, 2022</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.nccgroup.com/us/the-lazarus-group-5-measures-to-reduce-the-risk-of-an-attack/">NCC Group</a>
+      </td>
+      <td>The Lazarus group: 5 measures to reduce the risk of an attack</td>
+      <td>June 30, 2022</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.ic3.gov/CSA/2022/220418.pdf">Joint Cybersecurity Advisory</a>
       </td>
       <td>TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies</td>
@@ -167,10 +209,31 @@
     </tr>
     <tr>
       <td>
+        <a href="https://ofac.treasury.gov/recent-actions/20220414">Office of Foreign Assets Control</a>
+      </td>
+      <td>North Korea Designation Update</td>
+      <td>April 14, 2022</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.bleepingcomputer.com/news/security/fbi-links-largest-crypto-hack-ever-to-north-korean-hackers/">BleepingComputer</a>
       </td>
       <td>FBI links largest crypto hack ever to North Korean hackers</td>
       <td>April 14, 2022</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/a-look-into-the-lazarus-groups-operations">Trend Micro</a>
+      </td>
+      <td>A Look into the Lazarus Group’s Operations</td>
+      <td>January 25, 2018</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/the-hack-of-sony-pictures-what-you-need-to-know">Trend Micro</a>
+      </td>
+      <td>The Hack of Sony Pictures: What We Know and What You Need to Know</td>
+      <td>December 8, 2014</td>
     </tr>
   </tbody>
 </table>
