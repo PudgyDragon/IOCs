@@ -1,36 +1,21 @@
 <h1>Black Basta</h1>
 
-
 <h2>About</h2>
 <table>
   <tr>
-    <td>
-      <p>Platform</p>
-    </td>
-    <td>
-      <p></p>
-    </td>
+    <td>Platform</td>
+    <td>Windows</td>
   </tr>
   <tr>
-    <td>
-      <p>Type</p>
-    </td>
-    <td>
-      <p>Ransomware</p>
-    </td>
+    <td>Type</td>
+    <td>Ransomware</td>
   </tr>
   <tr>
-    <td>
-      <p>Origin</p>
-    </td>
-    <td>
-      <p>Russia</p>
-    </td>
+    <td>Origin</td>
+    <td>Russia</td>
   </tr>
   <tr>
-    <td>
-      <p>Source</p>
-    </td>
+    <td>Source</td>
     <td>
       <a href=""></a>
     </td>
@@ -41,18 +26,28 @@
 <table>
   <thead>
     <tr>
-      <td>Publisher</td>
-      <td>Title</td>
-      <td>Date<</td>
+      <th>Publisher</th>
+      <th>Title</th>
+      <th>Date</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="100" align="center">2025</td>
+    </tr>
     <tr>
       <td>
         <a href="https://www.ransomware.live/group/blackbasta">Ransomware.live</a>
       </td>
       <td>Ransomware Group: Blackbasta</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://arstechnica.com/security/2025/04/leaked-messages-expose-trade-secrets-of-prolific-black-basta-ransomware-group/">Ars Technica</a>
+      </td>
+      <td>“The girl should be calling men.” Leak exposes Black Basta’s influence tactics.</td>
+      <td>April 8, 2025</td>
     </tr>
     <tr>
       <td>
@@ -160,6 +155,9 @@
       <td>February 20, 2025</td>
     </tr>
     <tr>
+      <td colspan="100" align="center">2024</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://thehackernews.com/2024/12/black-basta-ransomware-evolves-with.html">The Hacker News</a>
       </td>
@@ -242,6 +240,9 @@
       </td>
       <td>Ongoing Social Engineering Campaign Linked to Black Basta Ransomware Operators</td>
       <td>May 10, 2024</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2023</td>
     </tr>
     <tr>
       <td>
