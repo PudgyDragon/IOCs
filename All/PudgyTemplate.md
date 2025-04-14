@@ -3,69 +3,39 @@
 <h2>About</h2>
 <table>
   <tr>
-    <td>
-      <p>Associated Groups</p>
-    </td>
-    <td>
-      <p></p>
-    </td>
+    <td>Associated Groups</td>
+    <td></td>
   </tr>
   <tr>
-    <td>
-      <p>Target Sectors</p>
-    </td>
-    <td>
-      <p></p>
-    </td>
+    <td>Target Sectors</td>
+    <td></td>
   </tr>
   <tr>
-    <td>
-      <p>Associated Malware</p>
-    </td>
-    <td>
-      <p></p>
-    </td>
+    <td>Associated Malware</td>
+    <td></td>
   </tr>
   <tr>
-    <td>
-      <p>Suspected Attribution</p>
-    </td>
-    <td>
-      <p></p>
-    </td>
+    <td>Suspected Attribution</td>
+    <td></td>
   </tr>
 </table>
 
 <h2>About</h2>
 <table>
   <tr>
-    <td>
-      <p>Platform</p>
-    </td>
-    <td>
-      <p></p>
-    </td>
+    <td>Platform</td>
+    <td></td>
   </tr>
   <tr>
-    <td>
-      <p>Type</p>
-    </td>
-    <td>
-      <p></p>
-    </td>
+    <td>Type</td>
+    <td></td>
   </tr>
   <tr>
-    <td>
-      <p>Origin</p>
-    </td>
-    <td>
-      <p></p>
-    </td>
+    <td>Origin</td>
+    <td></td>
   </tr>
   <tr>
-    <td>
-      <p>Source</p>
-    </td>
+    <td>Source</td>
     <td>
       <a href=""></a>
     </td>
