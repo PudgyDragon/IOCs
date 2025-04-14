@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td>Target Sectors</td>
-    <td></td>
+    <td>Government</td>
   </tr>
   <tr>
     <td>Associated Malware</td>
