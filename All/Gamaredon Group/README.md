@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Associated Groups</td>
-    <td>RON TILDEN, Primitive Bear, ACTINIUM, Armageddon, Shuckworm, DEV-0157, Aqua Blizzard</td>
+    <td>Trident Ursa, RON TILDEN, Primitive Bear, ACTINIUM, Armageddon, Shuckworm, DEV-0157, Aqua Blizzard</td>
   </tr>
   <tr>
     <td>Target Sectors</td>
@@ -46,6 +46,20 @@
       </td>
       <td>Tainted drive appears to be source of malware attack on Western military mission in Ukraine</td>
       <td>April 10, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://community.gurucul.com/articles/ThreatResearch/Russia-s-Trident-Ursa-aka-Gamaredon-9-4-2025">Gurucul</a>
+      </td>
+      <td>Russia’s Trident Ursa (aka Gamaredon APT) Cyber Conflict Operations Unwavering Since Invasion of Ukraine</td>
+      <td>April 9, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-093a">CISA</a>
+      </td>
+      <td>Fast Flux: A National Security Threat</td>
+      <td>April 3, 2025</td>
     </tr>
     <tr>
       <td>
@@ -96,7 +110,21 @@
       <td>July 17, 2023</td>
     </tr>
     <tr>
+      <td>
+        <a href="https://www.logpoint.com/en/blog/russia-v-ukraine-round-two-gamma-edition/">LogPoint</a>
+      </td>
+      <td>Russia V Ukraine: Round two – Gamma Edition</td>
+      <td>February 23, 2023</td>
+    </tr>
+    <tr>
       <td colspan="100" align="center">2022</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://unit42.paloaltonetworks.com/trident-ursa/">Unit 42</a>
+      </td>
+      <td>Russia’s Trident Ursa (aka Gamaredon APT) Cyber Conflict Operations Unwavering Since Invasion of Ukraine</td>
+      <td>December 20, 2022</td>
     </tr>
     <tr>
       <td>
