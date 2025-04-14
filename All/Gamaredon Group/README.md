@@ -3,36 +3,20 @@
 <h2>About</h2>
 <table>
   <tr>
-    <td>
-      <p>Associated Groups</p>
-    </td>
-    <td>
-      <p>RON TILDEN, Primitive Bear, ACTINIUM, Armageddon, Shuckworm, DEV-0157, Aqua Blizzard</p>
-    </td>
+    <td>Associated Groups</td>
+    <td>RON TILDEN, Primitive Bear, ACTINIUM, Armageddon, Shuckworm, DEV-0157, Aqua Blizzard</td>
   </tr>
   <tr>
-    <td>
-      <p>Target Sectors</p>
-    </td>
-    <td>
-      <p></p>
-    </td>
+    <td>Target Sectors</td>
+    <td>Military, NGO, Judiciary, Law Enforcement, Non-Profit Organizations</td>
   </tr>
   <tr>
-    <td>
-      <p>Associated Malware</p>
-    </td>
-    <td>
-      <p>Pterodo, EvilGnome</p>
-    </td>
+    <td>Associated Malware</td>
+    <td>Pterodo, EvilGnome</td>
   </tr>
   <tr>
-    <td>
-      <p>Suspected Attribution</p>
-    </td>
-    <td>
-      <p>Russia</p>
-    </td>
+    <td>Suspected Attribution</td>
+    <td>Russia</td>
   </tr>
 </table>
 
@@ -46,6 +30,23 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="100" align="center">2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.bleepingcomputer.com/news/security/russian-hackers-attack-western-military-mission-using-malicious-drive/">BleepingComputer</a>
+      </td>
+      <td>Russian hackers attack Western military mission using malicious drive</td>
+      <td>April 10, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://therecord.media/gamaredon-removable-drive-malware-western-military-mission-ukraine">The Record</a>
+      </td>
+      <td>Tainted drive appears to be source of malware attack on Western military mission in Ukraine</td>
+      <td>April 10, 2025</td>
+    </tr>
     <tr>
       <td>
         <a href="https://socprime.com/blog/gamaredon-campaign-detection/">SOC Prime</a>
@@ -68,6 +69,9 @@
       <td>January 21, 2025</td>
     </tr>
     <tr>
+      <td colspan="100" align="center">2024</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://www.lookout.com/threat-intelligence/article/gamaredon-russian-android-surveillanceware">Lookout</a>
       </td>
@@ -82,11 +86,17 @@
       <td>November 13, 2024</td>
     </tr>
     <tr>
+      <td colspan="100" align="center">2023</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://socprime.com/blog/uac-0010-aka-armageddon-apt-attacks-detection-overview-of-groups-ongoing-offensive-operations-targeting-ukraine/">SOC Prime</a>
       </td>
       <td>UAC-0010 aka Armageddon APT Attacks Detection: Overview of Group’s Ongoing Offensive Operations Targeting Ukraine</td>
       <td>July 17, 2023</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2022</td>
     </tr>
     <tr>
       <td>
@@ -138,6 +148,9 @@
       <td>January 31, 2022</td>
     </tr>
     <tr>
+      <td colspan="100" align="center">2021</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://therecord.media/ukraine-discloses-identity-of-gamaredon-members-links-it-to-russias-fsb">The Record</a>
       </td>
@@ -157,6 +170,9 @@
       </td>
       <td>Ukraine links members of Gamaredon hacker group to Russian FSB</td>
       <td>November 4, 2021</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2020</td>
     </tr>
     <tr>
       <td>
@@ -187,6 +203,9 @@
       <td>February 5, 2020</td>
     </tr>
     <tr>
+      <td colspan="100" align="center">2019</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://www.anomali.com/blog/malicious-activity-aligning-with-gamaredon-ttps-targets-ukraine">Anomali</a>
       </td>
@@ -199,6 +218,9 @@
       </td>
       <td>The Gamaredon Group: A TTP Profile Analysis</td>
       <td>August 21, 2019</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2017</td>
     </tr>
     <tr>
       <td>
