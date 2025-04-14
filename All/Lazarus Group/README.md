@@ -197,6 +197,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://thehackernews.com/2023/10/lazarus-group-targeting-defense-experts.html">The Hacker News</a>
+      </td>
+      <td>Lazarus Group Targeting Defense Experts with Fake Interviews via Trojanized VNC Apps</td>
+      <td>October 18, 2023</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.fbi.gov/news/press-releases/fbi-identifies-lazarus-group-cyber-actors-as-responsible-for-theft-of-41-million-from-stakecom">FBI</a>
       </td>
       <td>FBI Identifies Lazarus Group Cyber Actors as Responsible for Theft of $41 Million from Stake.com</td>
