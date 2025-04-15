@@ -41,3 +41,4 @@ http://198.23.187.150/127/cann.exe
 http://94.156.177.155/ukraine/svc1.exe
 https://files.catbox.moe/9bn8mp.dat
 https://files-ld.s3.us-east-2.amazonaws.com/static/file.zip
+http://89.23.107.219/info1.exe
