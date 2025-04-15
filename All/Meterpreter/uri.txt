@@ -41,3 +41,4 @@ http://192.64.83.210/service.exe
 http://178.20.41.29:10101/msf.apk
 http://164.92.154.140/pc.exe
 http://164.92.154.140/shellcode.exe
+http://18.167.165.91/setup.exe
