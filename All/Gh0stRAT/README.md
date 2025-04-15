@@ -61,6 +61,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://gridinsoft.com/blogs/ghost-rat-attacks-chinese-users/">Gridinsoft</a>
+      </td>
+      <td>Gh0st RAT Malware Attacks Chinese Users Via Fake Chrome Page</td>
+      <td>July 29, 2024</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://thehackernews.com/2024/07/gh0st-rat-trojan-targets-chinese.html">The Hacker News</a>
       </td>
       <td>Gh0st RAT Trojan Targets Chinese Windows Users via Fake Chrome Site</td>
