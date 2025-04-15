@@ -73,6 +73,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://thehackernews.com/2024/10/sidewinder-apt-strikes-middle-east-and.html">The Hacker News</a>
+      </td>
+      <td>SideWinder APT Strikes Middle East and Africa With Stealthy Multi-Stage Attack</td>
+      <td>October 17, 2024</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://securelist.com/sidewinder-apt/114089/">Securelist</a>
       </td>
       <td>Beyond the Surface: the evolution and expansion of the SideWinder APT group</td>
@@ -84,6 +91,13 @@
       </td>
       <td>SideWinder APT | StealerBot Campaign</td>
       <td>October, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://thehackernews.com/2024/07/new-sidewinder-cyber-attacks-target.html">The Hacker News</a>
+      </td>
+      <td>New SideWinder Cyber Attacks Target Maritime Facilities in Multiple Countries</td>
+      <td>July 30, 2024</td>
     </tr>
     <tr>
       <td>
@@ -111,10 +125,38 @@
     </tr>
     <tr>
       <td>
+        <a href="https://thehackernews.com/2023/05/state-sponsored-sidewinder-hacker.html">The Hacker News</a>
+      </td>
+      <td>State-Sponsored Sidewinder Hacker Group's Covert Attack Infrastructure Uncovered</td>
+      <td>May 17, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.group-ib.com/blog/hunting-sidewinder/">Group-IB</a>
+      </td>
+      <td>The distinctive rattle of APT SideWinder</td>
+      <td>May 17, 2023</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://blogs.blackberry.com/en/2023/05/sidewinder-uses-server-side-polymorphism-to-target-pakistan">BlackBerry</a>
       </td>
       <td>SideWinder Uses Server-side Polymorphism to Attack Pakistan Government Officials — and Is Now Targeting Turkey</td>
       <td>May 8, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://thehackernews.com/2023/02/researchers-link-sidewinder-group-to.html">The Hacker News</a>
+      </td>
+      <td>Researchers Link SideWinder Group to Dozens of Targeted Attacks in Multiple Countries</td>
+      <td>February 16, 2023</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.group-ib.com/media-center/press-releases/sidewinder-apt-report/">Group-IB</a>
+      </td>
+      <td>Molted skin: APT SideWinder 2021 campaign that targeted over 60 companies in the Asia-Pacific</td>
+      <td>February 15, 2023</td>
     </tr>
     <tr>
       <td colspan="100" align="center">2022</td>
@@ -180,6 +222,16 @@
       </td>
       <td>First Binder Exploit Linked to SideWinder APT Group</td>
       <td>January 6, 2020</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2018</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://sebdraven.medium.com/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739">Medium</a>
+      </td>
+      <td>APT Sidewinder changes theirs TTPs to install their backdoor.</td>
+      <td>October 18, 2018</td>
     </tr>
   </tbody>
 </table>
