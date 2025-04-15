@@ -3,36 +3,20 @@
 <h2>About</h2>
 <table>
   <tr>
-    <td>
-      <p>Associated Groups</p>
-    </td>
-    <td>
-      <p>T-APT-04, Rattlesnake</p>
-    </td>
+    <td>Associated Groups</td>
+    <td>T-APT-04, Rattlesnake, Apt-C-17, Baby Elephant, Hardcore Nationalist, Leafperforator, Razor Tiger</td>
   </tr>
   <tr>
-    <td>
-      <p>Target Sectors</p>
-    </td>
-    <td>
-      <p>Government, Military, Business</p>
-    </td>
+    <td>Target Sectors</td>
+    <td>Government, Military, Business, Maritime, Nuclear</td>
   </tr>
   <tr>
-    <td>
-      <p>Associated Malware</p>
-    </td>
-    <td>
-      <p>Koadic</p>
-    </td>
+    <td>Associated Malware</td>
+    <td>Koadic</td>
   </tr>
   <tr>
-    <td>
-      <p>Suspected Attribution</p>
-    </td>
-    <td>
-      <p>India</p>
-    </td>
+    <td>Suspected Attribution</td>
+    <td>India</td>
   </tr>
 </table>
 
@@ -46,6 +30,23 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="100" align="center">2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.cyberstash.com/wp-content/uploads/2025/04/SideWinder-APT-Agile-Retool-and-Evolving-Tactics.pdf">CyberStash</a>
+      </td>
+      <td>SideWinder APT | Agile Retool and Evolving Tactics</td>
+      <td>April, 2025</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://rhisac.org/threat-intelligence/sidewinder-apt-targets-hospitality-entities-across-asia-middle-east-europe-and-africa/">RH-ISAC</a>
+      </td>
+      <td>SideWinder APT Targets Hospitality Entities Across Asia, Middle East, Europe and Africa</td>
+      <td>March 11, 2025</td>
+    </tr>
     <tr>
       <td>
         <a href="https://thehackernews.com/2025/03/sidewinder-apt-targets-maritime-nuclear.html">The Hacker News</a>
@@ -61,11 +62,28 @@
       <td>March 10, 2025</td>
     </tr>
     <tr>
+      <td colspan="100" align="center">2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://circleid.com/posts/exploring-the-sidewinder-apt-groups-dns-footprint">CircleID</a>
+      </td>
+      <td>Exploring the SideWinder APT Group’s DNS Footprint</td>
+      <td>December 8, 2024</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://securelist.com/sidewinder-apt/114089/">Securelist</a>
       </td>
       <td>Beyond the Surface: the evolution and expansion of the SideWinder APT group</td>
       <td>October 15, 2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.cyberstash.com/wp-content/uploads/2024/10/SideWinder-APT-StealerBot-Campaign.pdf">CyberStash</a>
+      </td>
+      <td>SideWinder APT | StealerBot Campaign</td>
+      <td>October, 2024</td>
     </tr>
     <tr>
       <td>
@@ -82,6 +100,9 @@
       <td>May 23, 2024</td>
     </tr>
     <tr>
+      <td colspan="100" align="center">2023</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://www.bridewell.com/insights/news/detail/the-distinctive-rattle-of-apt-sidewinder">Bridewell</a>
       </td>
@@ -94,6 +115,9 @@
       </td>
       <td>SideWinder Uses Server-side Polymorphism to Attack Pakistan Government Officials — and Is Now Targeting Turkey</td>
       <td>May 8, 2023</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2022</td>
     </tr>
     <tr>
       <td>
@@ -124,11 +148,17 @@
       <td>May 31, 2022</td>
     </tr>
     <tr>
+      <td colspan="100" align="center">2021</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://cdn-cybersecurity.att.com/docs/global-perspective-of-the-sidewinder-apt.pdf">AT&T Alien Labs</a>
       </td>
       <td>A Global Perspective of the SideWinder APT</td>
       <td>January 13, 2021</td>
+    </tr>
+    <tr>
+      <td colspan="100" align="center">2020</td>
     </tr>
     <tr>
       <td>
